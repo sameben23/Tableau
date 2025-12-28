@@ -59,7 +59,7 @@ Each script should include:
 Script: clean_sales_data.py
 Purpose: Clean and prepare sales data for Tableau
 Author: Your Name
-Date: 2024-01-01
+Date: YYYY-MM-DD
 Requirements: pandas, numpy
 Usage: python clean_sales_data.py input.csv output.csv
 """

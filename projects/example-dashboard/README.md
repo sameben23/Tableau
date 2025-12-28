@@ -8,7 +8,7 @@ This is an example project structure to demonstrate how to organize Tableau proj
 
 **Status**: Example/Template
 
-**Last Updated**: December 2024
+**Last Updated**: YYYY-MM-DD
 
 ## Description
 
