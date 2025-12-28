@@ -1,0 +1,44 @@
+# Tableau Files
+*.twb~
+*.twbx~
+*.tds~
+*.tdsx~
+*.twb.bak
+*.twbx.bak
+*.tds.bak
+*.tdsx.bak
+.tmp/
+Tableau Repository/
+
+# Tableau Prep Files
+*.tfl~
+*.tflx~
+
+# Tableau Server Files
+*.tde
+*.hyper
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Data Files (optional - uncomment if you don't want to commit data)
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
+# *.xml
