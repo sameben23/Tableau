@@ -1,0 +1,2377 @@
+Month,Main Category,Subcategory,Cost Amount
+2015-01-01,Rooms Department,Front Office Labor,12374.41
+2015-01-01,Rooms Department,Guest Amenities,2075.62
+2015-01-01,Rooms Department,Cleaning Supplies,34959.88
+2015-01-01,Housekeeping & Laundry,Housekeeping Labor,62288.53
+2015-01-01,Housekeeping & Laundry,Laundry,11829.56
+2015-01-01,Housekeeping & Laundry,Linen Replacement,344.48
+2015-01-01,Utilities,Electricity,18815.45
+2015-01-01,Utilities,Water,1308.19
+2015-01-01,Utilities,Gas,52570.59
+2015-01-01,Sales & Marketing,OTA Commissions,35880.91
+2015-01-01,Sales & Marketing,Advertising,263.76
+2015-01-01,Sales & Marketing,Promotions,36936.31
+2015-01-01,Maintenance & Repairs,Preventive Maintenance,18207.06
+2015-01-01,Maintenance & Repairs,Repairs,18179.39
+2015-01-01,Maintenance & Repairs,Equipment Maintenance,22868.82
+2015-01-01,Administrative & General,Management Salaries,9281.46
+2015-01-01,Administrative & General,IT Costs,4498.64
+2015-01-01,Administrative & General,Insurance,56116.71
+2015-02-01,Rooms Department,Front Office Labor,13135.21
+2015-02-01,Rooms Department,Guest Amenities,23376.95
+2015-02-01,Rooms Department,Cleaning Supplies,13305.43
+2015-02-01,Housekeeping & Laundry,Housekeeping Labor,12545.36
+2015-02-01,Housekeeping & Laundry,Laundry,8940.16
+2015-02-01,Housekeeping & Laundry,Linen Replacement,9987.74
+2015-02-01,Utilities,Electricity,17410.03
+2015-02-01,Utilities,Water,124.49
+2015-02-01,Utilities,Gas,34402.89
+2015-02-01,Sales & Marketing,OTA Commissions,26288.46
+2015-02-01,Sales & Marketing,Advertising,13215.66
+2015-02-01,Sales & Marketing,Promotions,11480.93
+2015-02-01,Maintenance & Repairs,Preventive Maintenance,9434.8
+2015-02-01,Maintenance & Repairs,Repairs,19869.69
+2015-02-01,Maintenance & Repairs,Equipment Maintenance,4647.18
+2015-02-01,Administrative & General,Management Salaries,10909.6
+2015-02-01,Administrative & General,IT Costs,12143.38
+2015-02-01,Administrative & General,Insurance,7419.13
+2015-03-01,Rooms Department,Front Office Labor,3693.43
+2015-03-01,Rooms Department,Guest Amenities,31653.87
+2015-03-01,Rooms Department,Cleaning Supplies,19125.29
+2015-03-01,Housekeeping & Laundry,Housekeeping Labor,4469.56
+2015-03-01,Housekeeping & Laundry,Laundry,56593.1
+2015-03-01,Housekeeping & Laundry,Linen Replacement,14119.75
+2015-03-01,Utilities,Electricity,52734.95
+2015-03-01,Utilities,Water,2832.96
+2015-03-01,Utilities,Gas,17863.76
+2015-03-01,Sales & Marketing,OTA Commissions,18886.11
+2015-03-01,Sales & Marketing,Advertising,3672.69
+2015-03-01,Sales & Marketing,Promotions,25044.54
+2015-03-01,Maintenance & Repairs,Preventive Maintenance,24317.46
+2015-03-01,Maintenance & Repairs,Repairs,24988.75
+2015-03-01,Maintenance & Repairs,Equipment Maintenance,19261.93
+2015-03-01,Administrative & General,Management Salaries,41441.43
+2015-03-01,Administrative & General,IT Costs,1508.32
+2015-03-01,Administrative & General,Insurance,9240.1
+2015-04-01,Rooms Department,Front Office Labor,1455.58
+2015-04-01,Rooms Department,Guest Amenities,25579.91
+2015-04-01,Rooms Department,Cleaning Supplies,2183.7
+2015-04-01,Housekeeping & Laundry,Housekeeping Labor,7179.8
+2015-04-01,Housekeeping & Laundry,Laundry,18294.45
+2015-04-01,Housekeeping & Laundry,Linen Replacement,16097.99
+2015-04-01,Utilities,Electricity,1955.07
+2015-04-01,Utilities,Water,23970.38
+2015-04-01,Utilities,Gas,2283.26
+2015-04-01,Sales & Marketing,OTA Commissions,10322.01
+2015-04-01,Sales & Marketing,Advertising,6724.72
+2015-04-01,Sales & Marketing,Promotions,15337.85
+2015-04-01,Maintenance & Repairs,Preventive Maintenance,9928.57
+2015-04-01,Maintenance & Repairs,Repairs,5287.53
+2015-04-01,Maintenance & Repairs,Equipment Maintenance,13984.81
+2015-04-01,Administrative & General,Management Salaries,25.46
+2015-04-01,Administrative & General,IT Costs,25421.8
+2015-04-01,Administrative & General,Insurance,2813.11
+2015-05-01,Rooms Department,Front Office Labor,4653.27
+2015-05-01,Rooms Department,Guest Amenities,3453.95
+2015-05-01,Rooms Department,Cleaning Supplies,24148.4
+2015-05-01,Housekeeping & Laundry,Housekeeping Labor,8124.11
+2015-05-01,Housekeeping & Laundry,Laundry,3476.19
+2015-05-01,Housekeeping & Laundry,Linen Replacement,13644.11
+2015-05-01,Utilities,Electricity,9526.99
+2015-05-01,Utilities,Water,6330.55
+2015-05-01,Utilities,Gas,7540.13
+2015-05-01,Sales & Marketing,OTA Commissions,7288.37
+2015-05-01,Sales & Marketing,Advertising,14887.03
+2015-05-01,Sales & Marketing,Promotions,7186.21
+2015-05-01,Maintenance & Repairs,Preventive Maintenance,17967.38
+2015-05-01,Maintenance & Repairs,Repairs,8064.35
+2015-05-01,Maintenance & Repairs,Equipment Maintenance,3143.69
+2015-05-01,Administrative & General,Management Salaries,398.87
+2015-05-01,Administrative & General,IT Costs,10803.63
+2015-05-01,Administrative & General,Insurance,7225.03
+2015-06-01,Rooms Department,Front Office Labor,14936.1
+2015-06-01,Rooms Department,Guest Amenities,9447.18
+2015-06-01,Rooms Department,Cleaning Supplies,1660.79
+2015-06-01,Housekeeping & Laundry,Housekeeping Labor,6201.07
+2015-06-01,Housekeeping & Laundry,Laundry,13908.74
+2015-06-01,Housekeeping & Laundry,Linen Replacement,3986.36
+2015-06-01,Utilities,Electricity,9569.57
+2015-06-01,Utilities,Water,4903.5
+2015-06-01,Utilities,Gas,16363.07
+2015-06-01,Sales & Marketing,OTA Commissions,6750.15
+2015-06-01,Sales & Marketing,Advertising,1114.87
+2015-06-01,Sales & Marketing,Promotions,21095.94
+2015-06-01,Maintenance & Repairs,Preventive Maintenance,7732.27
+2015-06-01,Maintenance & Repairs,Repairs,22658.56
+2015-06-01,Maintenance & Repairs,Equipment Maintenance,679.64
+2015-06-01,Administrative & General,Management Salaries,23523.12
+2015-06-01,Administrative & General,IT Costs,12545.09
+2015-06-01,Administrative & General,Insurance,4635.11
+2015-07-01,Rooms Department,Front Office Labor,17180.25
+2015-07-01,Rooms Department,Guest Amenities,6915.53
+2015-07-01,Rooms Department,Cleaning Supplies,26374.84
+2015-07-01,Housekeeping & Laundry,Housekeeping Labor,23948.86
+2015-07-01,Housekeeping & Laundry,Laundry,8388.62
+2015-07-01,Housekeeping & Laundry,Linen Replacement,2640.72
+2015-07-01,Utilities,Electricity,2546.94
+2015-07-01,Utilities,Water,19150.21
+2015-07-01,Utilities,Gas,11646.95
+2015-07-01,Sales & Marketing,OTA Commissions,3967.35
+2015-07-01,Sales & Marketing,Advertising,3555.14
+2015-07-01,Sales & Marketing,Promotions,36808.94
+2015-07-01,Maintenance & Repairs,Preventive Maintenance,7047.53
+2015-07-01,Maintenance & Repairs,Repairs,21928.11
+2015-07-01,Maintenance & Repairs,Equipment Maintenance,20695.29
+2015-07-01,Administrative & General,Management Salaries,5263.53
+2015-07-01,Administrative & General,IT Costs,13635.48
+2015-07-01,Administrative & General,Insurance,21314.76
+2015-08-01,Rooms Department,Front Office Labor,29131.91
+2015-08-01,Rooms Department,Guest Amenities,3055.06
+2015-08-01,Rooms Department,Cleaning Supplies,26018.48
+2015-08-01,Housekeeping & Laundry,Housekeeping Labor,21076.78
+2015-08-01,Housekeeping & Laundry,Laundry,10994.63
+2015-08-01,Housekeeping & Laundry,Linen Replacement,22801.65
+2015-08-01,Utilities,Electricity,30533.22
+2015-08-01,Utilities,Water,14938.07
+2015-08-01,Utilities,Gas,14821.74
+2015-08-01,Sales & Marketing,OTA Commissions,22486.94
+2015-08-01,Sales & Marketing,Advertising,13096.81
+2015-08-01,Sales & Marketing,Promotions,9498.2
+2015-08-01,Maintenance & Repairs,Preventive Maintenance,3418.79
+2015-08-01,Maintenance & Repairs,Repairs,40603.02
+2015-08-01,Maintenance & Repairs,Equipment Maintenance,10808.85
+2015-08-01,Administrative & General,Management Salaries,21256.99
+2015-08-01,Administrative & General,IT Costs,3210.37
+2015-08-01,Administrative & General,Insurance,14991.67
+2015-09-01,Rooms Department,Front Office Labor,7723.53
+2015-09-01,Rooms Department,Guest Amenities,15109.09
+2015-09-01,Rooms Department,Cleaning Supplies,2432.9
+2015-09-01,Housekeeping & Laundry,Housekeeping Labor,14495.52
+2015-09-01,Housekeeping & Laundry,Laundry,12251.55
+2015-09-01,Housekeeping & Laundry,Linen Replacement,10732.57
+2015-09-01,Utilities,Electricity,16152.32
+2015-09-01,Utilities,Water,4108.92
+2015-09-01,Utilities,Gas,7327.3
+2015-09-01,Sales & Marketing,OTA Commissions,5083.55
+2015-09-01,Sales & Marketing,Advertising,19410.78
+2015-09-01,Sales & Marketing,Promotions,7132.43
+2015-09-01,Maintenance & Repairs,Preventive Maintenance,11781.32
+2015-09-01,Maintenance & Repairs,Repairs,7241.24
+2015-09-01,Maintenance & Repairs,Equipment Maintenance,7662.74
+2015-09-01,Administrative & General,Management Salaries,302.16
+2015-09-01,Administrative & General,IT Costs,5555.08
+2015-09-01,Administrative & General,Insurance,22341.12
+2015-10-01,Rooms Department,Front Office Labor,9308.38
+2015-10-01,Rooms Department,Guest Amenities,9941.27
+2015-10-01,Rooms Department,Cleaning Supplies,4091.32
+2015-10-01,Housekeeping & Laundry,Housekeeping Labor,3007.45
+2015-10-01,Housekeeping & Laundry,Laundry,24393.64
+2015-10-01,Housekeeping & Laundry,Linen Replacement,6297.52
+2015-10-01,Utilities,Electricity,7574.9
+2015-10-01,Utilities,Water,5451.0
+2015-10-01,Utilities,Gas,9468.21
+2015-10-01,Sales & Marketing,OTA Commissions,8374.74
+2015-10-01,Sales & Marketing,Advertising,6989.44
+2015-10-01,Sales & Marketing,Promotions,18190.69
+2015-10-01,Maintenance & Repairs,Preventive Maintenance,18616.32
+2015-10-01,Maintenance & Repairs,Repairs,8626.3
+2015-10-01,Maintenance & Repairs,Equipment Maintenance,3939.86
+2015-10-01,Administrative & General,Management Salaries,14604.97
+2015-10-01,Administrative & General,IT Costs,1635.83
+2015-10-01,Administrative & General,Insurance,6029.9
+2015-11-01,Rooms Department,Front Office Labor,7602.95
+2015-11-01,Rooms Department,Guest Amenities,13089.42
+2015-11-01,Rooms Department,Cleaning Supplies,27853.01
+2015-11-01,Housekeeping & Laundry,Housekeeping Labor,14524.64
+2015-11-01,Housekeeping & Laundry,Laundry,3725.79
+2015-11-01,Housekeeping & Laundry,Linen Replacement,13775.73
+2015-11-01,Utilities,Electricity,13504.0
+2015-11-01,Utilities,Water,9397.79
+2015-11-01,Utilities,Gas,10720.17
+2015-11-01,Sales & Marketing,OTA Commissions,14732.93
+2015-11-01,Sales & Marketing,Advertising,12878.76
+2015-11-01,Sales & Marketing,Promotions,8574.03
+2015-11-01,Maintenance & Repairs,Preventive Maintenance,16179.09
+2015-11-01,Maintenance & Repairs,Repairs,30299.74
+2015-11-01,Maintenance & Repairs,Equipment Maintenance,3560.58
+2015-11-01,Administrative & General,Management Salaries,12795.52
+2015-11-01,Administrative & General,IT Costs,7722.38
+2015-11-01,Administrative & General,Insurance,9045.97
+2015-12-01,Rooms Department,Front Office Labor,16839.66
+2015-12-01,Rooms Department,Guest Amenities,1604.01
+2015-12-01,Rooms Department,Cleaning Supplies,27128.09
+2015-12-01,Housekeeping & Laundry,Housekeeping Labor,298.75
+2015-12-01,Housekeeping & Laundry,Laundry,22213.98
+2015-12-01,Housekeeping & Laundry,Linen Replacement,18123.36
+2015-12-01,Utilities,Electricity,26949.97
+2015-12-01,Utilities,Water,3577.67
+2015-12-01,Utilities,Gas,33614.31
+2015-12-01,Sales & Marketing,OTA Commissions,43738.28
+2015-12-01,Sales & Marketing,Advertising,18558.97
+2015-12-01,Sales & Marketing,Promotions,4253.61
+2015-12-01,Maintenance & Repairs,Preventive Maintenance,18144.7
+2015-12-01,Maintenance & Repairs,Repairs,18672.21
+2015-12-01,Maintenance & Repairs,Equipment Maintenance,10887.81
+2015-12-01,Administrative & General,Management Salaries,30719.06
+2015-12-01,Administrative & General,IT Costs,3079.57
+2015-12-01,Administrative & General,Insurance,19879.1
+2016-01-01,Rooms Department,Front Office Labor,29360.58
+2016-01-01,Rooms Department,Guest Amenities,34947.43
+2016-01-01,Rooms Department,Cleaning Supplies,2450.41
+2016-01-01,Housekeeping & Laundry,Housekeeping Labor,16114.37
+2016-01-01,Housekeeping & Laundry,Laundry,24739.43
+2016-01-01,Housekeeping & Laundry,Linen Replacement,22597.1
+2016-01-01,Utilities,Electricity,34185.47
+2016-01-01,Utilities,Water,13515.63
+2016-01-01,Utilities,Gas,2681.74
+2016-01-01,Sales & Marketing,OTA Commissions,21942.66
+2016-01-01,Sales & Marketing,Advertising,12443.57
+2016-01-01,Sales & Marketing,Promotions,19655.49
+2016-01-01,Maintenance & Repairs,Preventive Maintenance,4968.09
+2016-01-01,Maintenance & Repairs,Repairs,28836.51
+2016-01-01,Maintenance & Repairs,Equipment Maintenance,34349.31
+2016-01-01,Administrative & General,Management Salaries,41874.26
+2016-01-01,Administrative & General,IT Costs,8208.83
+2016-01-01,Administrative & General,Insurance,3505.15
+2016-02-01,Rooms Department,Front Office Labor,1103.43
+2016-02-01,Rooms Department,Guest Amenities,9595.53
+2016-02-01,Rooms Department,Cleaning Supplies,37615.94
+2016-02-01,Housekeeping & Laundry,Housekeeping Labor,533.96
+2016-02-01,Housekeeping & Laundry,Laundry,21239.03
+2016-02-01,Housekeeping & Laundry,Linen Replacement,28784.39
+2016-02-01,Utilities,Electricity,147.75
+2016-02-01,Utilities,Water,32029.73
+2016-02-01,Utilities,Gas,7100.21
+2016-02-01,Sales & Marketing,OTA Commissions,6716.58
+2016-02-01,Sales & Marketing,Advertising,16819.8
+2016-02-01,Sales & Marketing,Promotions,12368.01
+2016-02-01,Maintenance & Repairs,Preventive Maintenance,20742.08
+2016-02-01,Maintenance & Repairs,Repairs,5050.26
+2016-02-01,Maintenance & Repairs,Equipment Maintenance,4907.07
+2016-02-01,Administrative & General,Management Salaries,5961.44
+2016-02-01,Administrative & General,IT Costs,23519.8
+2016-02-01,Administrative & General,Insurance,490.57
+2016-03-01,Rooms Department,Front Office Labor,25819.14
+2016-03-01,Rooms Department,Guest Amenities,30898.08
+2016-03-01,Rooms Department,Cleaning Supplies,2427.95
+2016-03-01,Housekeeping & Laundry,Housekeeping Labor,13179.31
+2016-03-01,Housekeeping & Laundry,Laundry,11564.53
+2016-03-01,Housekeeping & Laundry,Linen Replacement,29774.48
+2016-03-01,Utilities,Electricity,5216.56
+2016-03-01,Utilities,Water,27328.5
+2016-03-01,Utilities,Gas,33556.57
+2016-03-01,Sales & Marketing,OTA Commissions,28579.41
+2016-03-01,Sales & Marketing,Advertising,3417.57
+2016-03-01,Sales & Marketing,Promotions,24425.15
+2016-03-01,Maintenance & Repairs,Preventive Maintenance,19309.65
+2016-03-01,Maintenance & Repairs,Repairs,22912.5
+2016-03-01,Maintenance & Repairs,Equipment Maintenance,12698.3
+2016-03-01,Administrative & General,Management Salaries,18345.2
+2016-03-01,Administrative & General,IT Costs,22609.58
+2016-03-01,Administrative & General,Insurance,7938.1
+2016-04-01,Rooms Department,Front Office Labor,3651.94
+2016-04-01,Rooms Department,Guest Amenities,18118.66
+2016-04-01,Rooms Department,Cleaning Supplies,9647.3
+2016-04-01,Housekeeping & Laundry,Housekeeping Labor,13125.07
+2016-04-01,Housekeeping & Laundry,Laundry,16591.57
+2016-04-01,Housekeeping & Laundry,Linen Replacement,602.47
+2016-04-01,Utilities,Electricity,2480.18
+2016-04-01,Utilities,Water,6237.15
+2016-04-01,Utilities,Gas,20075.48
+2016-04-01,Sales & Marketing,OTA Commissions,14356.95
+2016-04-01,Sales & Marketing,Advertising,3934.97
+2016-04-01,Sales & Marketing,Promotions,20600.78
+2016-04-01,Maintenance & Repairs,Preventive Maintenance,2678.37
+2016-04-01,Maintenance & Repairs,Repairs,5175.56
+2016-04-01,Maintenance & Repairs,Equipment Maintenance,13675.25
+2016-04-01,Administrative & General,Management Salaries,13096.05
+2016-04-01,Administrative & General,IT Costs,545.45
+2016-04-01,Administrative & General,Insurance,24041.77
+2016-05-01,Rooms Department,Front Office Labor,9196.64
+2016-05-01,Rooms Department,Guest Amenities,15367.52
+2016-05-01,Rooms Department,Cleaning Supplies,8502.67
+2016-05-01,Housekeeping & Laundry,Housekeeping Labor,11654.49
+2016-05-01,Housekeeping & Laundry,Laundry,4995.25
+2016-05-01,Housekeeping & Laundry,Linen Replacement,2578.02
+2016-05-01,Utilities,Electricity,13204.23
+2016-05-01,Utilities,Water,5270.24
+2016-05-01,Utilities,Gas,12448.69
+2016-05-01,Sales & Marketing,OTA Commissions,11180.85
+2016-05-01,Sales & Marketing,Advertising,11666.32
+2016-05-01,Sales & Marketing,Promotions,1495.24
+2016-05-01,Maintenance & Repairs,Preventive Maintenance,14279.89
+2016-05-01,Maintenance & Repairs,Repairs,719.47
+2016-05-01,Maintenance & Repairs,Equipment Maintenance,9137.03
+2016-05-01,Administrative & General,Management Salaries,2424.74
+2016-05-01,Administrative & General,IT Costs,21758.36
+2016-05-01,Administrative & General,Insurance,2399.02
+2016-06-01,Rooms Department,Front Office Labor,31898.96
+2016-06-01,Rooms Department,Guest Amenities,4610.71
+2016-06-01,Rooms Department,Cleaning Supplies,2656.15
+2016-06-01,Housekeeping & Laundry,Housekeeping Labor,26689.21
+2016-06-01,Housekeeping & Laundry,Laundry,1737.96
+2016-06-01,Housekeeping & Laundry,Linen Replacement,7219.99
+2016-06-01,Utilities,Electricity,8962.75
+2016-06-01,Utilities,Water,7039.16
+2016-06-01,Utilities,Gas,21650.01
+2016-06-01,Sales & Marketing,OTA Commissions,13490.22
+2016-06-01,Sales & Marketing,Advertising,2491.44
+2016-06-01,Sales & Marketing,Promotions,12459.67
+2016-06-01,Maintenance & Repairs,Preventive Maintenance,8813.1
+2016-06-01,Maintenance & Repairs,Repairs,7986.21
+2016-06-01,Maintenance & Repairs,Equipment Maintenance,18272.02
+2016-06-01,Administrative & General,Management Salaries,15767.94
+2016-06-01,Administrative & General,IT Costs,21285.78
+2016-06-01,Administrative & General,Insurance,2265.06
+2016-07-01,Rooms Department,Front Office Labor,7592.15
+2016-07-01,Rooms Department,Guest Amenities,25723.63
+2016-07-01,Rooms Department,Cleaning Supplies,2449.83
+2016-07-01,Housekeeping & Laundry,Housekeeping Labor,14432.46
+2016-07-01,Housekeeping & Laundry,Laundry,3735.17
+2016-07-01,Housekeeping & Laundry,Linen Replacement,19991.36
+2016-07-01,Utilities,Electricity,2975.57
+2016-07-01,Utilities,Water,13003.88
+2016-07-01,Utilities,Gas,17135.78
+2016-07-01,Sales & Marketing,OTA Commissions,17784.27
+2016-07-01,Sales & Marketing,Advertising,26685.59
+2016-07-01,Sales & Marketing,Promotions,4536.75
+2016-07-01,Maintenance & Repairs,Preventive Maintenance,18602.53
+2016-07-01,Maintenance & Repairs,Repairs,9608.59
+2016-07-01,Maintenance & Repairs,Equipment Maintenance,396.83
+2016-07-01,Administrative & General,Management Salaries,21113.26
+2016-07-01,Administrative & General,IT Costs,2804.16
+2016-07-01,Administrative & General,Insurance,6223.18
+2016-08-01,Rooms Department,Front Office Labor,6677.1
+2016-08-01,Rooms Department,Guest Amenities,16094.49
+2016-08-01,Rooms Department,Cleaning Supplies,42029.16
+2016-08-01,Housekeeping & Laundry,Housekeeping Labor,8256.19
+2016-08-01,Housekeeping & Laundry,Laundry,20348.87
+2016-08-01,Housekeeping & Laundry,Linen Replacement,16111.97
+2016-08-01,Utilities,Electricity,2141.65
+2016-08-01,Utilities,Water,26537.31
+2016-08-01,Utilities,Gas,14598.66
+2016-08-01,Sales & Marketing,OTA Commissions,11773.66
+2016-08-01,Sales & Marketing,Advertising,10675.9
+2016-08-01,Sales & Marketing,Promotions,25647.72
+2016-08-01,Maintenance & Repairs,Preventive Maintenance,25952.93
+2016-08-01,Maintenance & Repairs,Repairs,28531.83
+2016-08-01,Maintenance & Repairs,Equipment Maintenance,9653.91
+2016-08-01,Administrative & General,Management Salaries,10481.56
+2016-08-01,Administrative & General,IT Costs,35452.94
+2016-08-01,Administrative & General,Insurance,15359.9
+2016-09-01,Rooms Department,Front Office Labor,20674.62
+2016-09-01,Rooms Department,Guest Amenities,10395.56
+2016-09-01,Rooms Department,Cleaning Supplies,5252.08
+2016-09-01,Housekeeping & Laundry,Housekeeping Labor,7157.22
+2016-09-01,Housekeeping & Laundry,Laundry,2620.52
+2016-09-01,Housekeeping & Laundry,Linen Replacement,25806.69
+2016-09-01,Utilities,Electricity,15568.82
+2016-09-01,Utilities,Water,12906.72
+2016-09-01,Utilities,Gas,6955.69
+2016-09-01,Sales & Marketing,OTA Commissions,17877.94
+2016-09-01,Sales & Marketing,Advertising,7688.53
+2016-09-01,Sales & Marketing,Promotions,16693.93
+2016-09-01,Maintenance & Repairs,Preventive Maintenance,23287.82
+2016-09-01,Maintenance & Repairs,Repairs,21663.91
+2016-09-01,Maintenance & Repairs,Equipment Maintenance,6895.67
+2016-09-01,Administrative & General,Management Salaries,12621.45
+2016-09-01,Administrative & General,IT Costs,33296.88
+2016-09-01,Administrative & General,Insurance,5784.7
+2016-10-01,Rooms Department,Front Office Labor,30273.04
+2016-10-01,Rooms Department,Guest Amenities,3797.83
+2016-10-01,Rooms Department,Cleaning Supplies,7596.76
+2016-10-01,Housekeeping & Laundry,Housekeeping Labor,21460.75
+2016-10-01,Housekeeping & Laundry,Laundry,2828.55
+2016-10-01,Housekeeping & Laundry,Linen Replacement,19924.68
+2016-10-01,Utilities,Electricity,13928.2
+2016-10-01,Utilities,Water,6203.71
+2016-10-01,Utilities,Gas,27945.07
+2016-10-01,Sales & Marketing,OTA Commissions,32472.5
+2016-10-01,Sales & Marketing,Advertising,1975.62
+2016-10-01,Sales & Marketing,Promotions,9635.15
+2016-10-01,Maintenance & Repairs,Preventive Maintenance,13533.96
+2016-10-01,Maintenance & Repairs,Repairs,10508.67
+2016-10-01,Maintenance & Repairs,Equipment Maintenance,5530.11
+2016-10-01,Administrative & General,Management Salaries,21837.37
+2016-10-01,Administrative & General,IT Costs,16511.49
+2016-10-01,Administrative & General,Insurance,7317.7
+2016-11-01,Rooms Department,Front Office Labor,752.17
+2016-11-01,Rooms Department,Guest Amenities,6060.81
+2016-11-01,Rooms Department,Cleaning Supplies,30920.83
+2016-11-01,Housekeeping & Laundry,Housekeeping Labor,23619.29
+2016-11-01,Housekeeping & Laundry,Laundry,6145.43
+2016-11-01,Housekeeping & Laundry,Linen Replacement,22099.8
+2016-11-01,Utilities,Electricity,23804.51
+2016-11-01,Utilities,Water,18808.16
+2016-11-01,Utilities,Gas,13677.22
+2016-11-01,Sales & Marketing,OTA Commissions,4859.64
+2016-11-01,Sales & Marketing,Advertising,15204.67
+2016-11-01,Sales & Marketing,Promotions,24275.22
+2016-11-01,Maintenance & Repairs,Preventive Maintenance,16517.83
+2016-11-01,Maintenance & Repairs,Repairs,17797.75
+2016-11-01,Maintenance & Repairs,Equipment Maintenance,9298.77
+2016-11-01,Administrative & General,Management Salaries,11519.57
+2016-11-01,Administrative & General,IT Costs,28050.93
+2016-11-01,Administrative & General,Insurance,14931.41
+2016-12-01,Rooms Department,Front Office Labor,4500.56
+2016-12-01,Rooms Department,Guest Amenities,33568.18
+2016-12-01,Rooms Department,Cleaning Supplies,5677.25
+2016-12-01,Housekeeping & Laundry,Housekeeping Labor,32232.96
+2016-12-01,Housekeeping & Laundry,Laundry,19502.62
+2016-12-01,Housekeeping & Laundry,Linen Replacement,20461.3
+2016-12-01,Utilities,Electricity,5632.29
+2016-12-01,Utilities,Water,44994.18
+2016-12-01,Utilities,Gas,6280.72
+2016-12-01,Sales & Marketing,OTA Commissions,6913.73
+2016-12-01,Sales & Marketing,Advertising,927.07
+2016-12-01,Sales & Marketing,Promotions,66538.57
+2016-12-01,Maintenance & Repairs,Preventive Maintenance,16635.12
+2016-12-01,Maintenance & Repairs,Repairs,12709.28
+2016-12-01,Maintenance & Repairs,Equipment Maintenance,38377.68
+2016-12-01,Administrative & General,Management Salaries,30619.75
+2016-12-01,Administrative & General,IT Costs,23542.93
+2016-12-01,Administrative & General,Insurance,16161.21
+2017-01-01,Rooms Department,Front Office Labor,41140.85
+2017-01-01,Rooms Department,Guest Amenities,2573.24
+2017-01-01,Rooms Department,Cleaning Supplies,17395.75
+2017-01-01,Housekeeping & Laundry,Housekeeping Labor,18577.45
+2017-01-01,Housekeeping & Laundry,Laundry,19000.36
+2017-01-01,Housekeeping & Laundry,Linen Replacement,10174.54
+2017-01-01,Utilities,Electricity,14115.45
+2017-01-01,Utilities,Water,10470.81
+2017-01-01,Utilities,Gas,22020.57
+2017-01-01,Sales & Marketing,OTA Commissions,9730.19
+2017-01-01,Sales & Marketing,Advertising,8755.75
+2017-01-01,Sales & Marketing,Promotions,26059.19
+2017-01-01,Maintenance & Repairs,Preventive Maintenance,3670.33
+2017-01-01,Maintenance & Repairs,Repairs,11120.89
+2017-01-01,Maintenance & Repairs,Equipment Maintenance,31547.82
+2017-01-01,Administrative & General,Management Salaries,17791.75
+2017-01-01,Administrative & General,IT Costs,12832.92
+2017-01-01,Administrative & General,Insurance,20009.69
+2017-02-01,Rooms Department,Front Office Labor,9983.85
+2017-02-01,Rooms Department,Guest Amenities,30978.35
+2017-02-01,Rooms Department,Cleaning Supplies,18896.19
+2017-02-01,Housekeeping & Laundry,Housekeeping Labor,18996.03
+2017-02-01,Housekeeping & Laundry,Laundry,8456.45
+2017-02-01,Housekeeping & Laundry,Linen Replacement,38583.61
+2017-02-01,Utilities,Electricity,31052.75
+2017-02-01,Utilities,Water,3308.41
+2017-02-01,Utilities,Gas,12829.33
+2017-02-01,Sales & Marketing,OTA Commissions,53327.25
+2017-02-01,Sales & Marketing,Advertising,22942.84
+2017-02-01,Sales & Marketing,Promotions,893.5
+2017-02-01,Maintenance & Repairs,Preventive Maintenance,23414.34
+2017-02-01,Maintenance & Repairs,Repairs,25348.1
+2017-02-01,Maintenance & Repairs,Equipment Maintenance,16113.32
+2017-02-01,Administrative & General,Management Salaries,35516.22
+2017-02-01,Administrative & General,IT Costs,5984.42
+2017-02-01,Administrative & General,Insurance,2306.17
+2017-03-01,Rooms Department,Front Office Labor,11114.48
+2017-03-01,Rooms Department,Guest Amenities,7138.85
+2017-03-01,Rooms Department,Cleaning Supplies,15967.67
+2017-03-01,Housekeeping & Laundry,Housekeeping Labor,6690.92
+2017-03-01,Housekeeping & Laundry,Laundry,20209.4
+2017-03-01,Housekeeping & Laundry,Linen Replacement,21738.21
+2017-03-01,Utilities,Electricity,8883.18
+2017-03-01,Utilities,Water,1619.17
+2017-03-01,Utilities,Gas,27979.27
+2017-03-01,Sales & Marketing,OTA Commissions,25204.96
+2017-03-01,Sales & Marketing,Advertising,1617.91
+2017-03-01,Sales & Marketing,Promotions,10889.67
+2017-03-01,Maintenance & Repairs,Preventive Maintenance,5020.93
+2017-03-01,Maintenance & Repairs,Repairs,18406.28
+2017-03-01,Maintenance & Repairs,Equipment Maintenance,28335.68
+2017-03-01,Administrative & General,Management Salaries,5434.34
+2017-03-01,Administrative & General,IT Costs,16269.16
+2017-03-01,Administrative & General,Insurance,22621.93
+2017-04-01,Rooms Department,Front Office Labor,14613.15
+2017-04-01,Rooms Department,Guest Amenities,3863.7
+2017-04-01,Rooms Department,Cleaning Supplies,6468.53
+2017-04-01,Housekeeping & Laundry,Housekeeping Labor,17836.19
+2017-04-01,Housekeeping & Laundry,Laundry,16927.14
+2017-04-01,Housekeeping & Laundry,Linen Replacement,680.81
+2017-04-01,Utilities,Electricity,5055.52
+2017-04-01,Utilities,Water,2073.01
+2017-04-01,Utilities,Gas,19273.13
+2017-04-01,Sales & Marketing,OTA Commissions,6879.8
+2017-04-01,Sales & Marketing,Advertising,5608.73
+2017-04-01,Sales & Marketing,Promotions,22193.93
+2017-04-01,Maintenance & Repairs,Preventive Maintenance,423.83
+2017-04-01,Maintenance & Repairs,Repairs,27120.08
+2017-04-01,Maintenance & Repairs,Equipment Maintenance,2115.56
+2017-04-01,Administrative & General,Management Salaries,2487.87
+2017-04-01,Administrative & General,IT Costs,139.72
+2017-04-01,Administrative & General,Insurance,18616.64
+2017-05-01,Rooms Department,Front Office Labor,25985.08
+2017-05-01,Rooms Department,Guest Amenities,12423.6
+2017-05-01,Rooms Department,Cleaning Supplies,2794.36
+2017-05-01,Housekeeping & Laundry,Housekeeping Labor,24445.89
+2017-05-01,Housekeeping & Laundry,Laundry,2011.7
+2017-05-01,Housekeeping & Laundry,Linen Replacement,9479.42
+2017-05-01,Utilities,Electricity,5248.36
+2017-05-01,Utilities,Water,28048.68
+2017-05-01,Utilities,Gas,4258.13
+2017-05-01,Sales & Marketing,OTA Commissions,1678.55
+2017-05-01,Sales & Marketing,Advertising,31199.65
+2017-05-01,Sales & Marketing,Promotions,1876.69
+2017-05-01,Maintenance & Repairs,Preventive Maintenance,13980.34
+2017-05-01,Maintenance & Repairs,Repairs,3778.01
+2017-05-01,Maintenance & Repairs,Equipment Maintenance,18050.64
+2017-05-01,Administrative & General,Management Salaries,1463.36
+2017-05-01,Administrative & General,IT Costs,10963.46
+2017-05-01,Administrative & General,Insurance,23131.98
+2017-06-01,Rooms Department,Front Office Labor,289.77
+2017-06-01,Rooms Department,Guest Amenities,25306.98
+2017-06-01,Rooms Department,Cleaning Supplies,827.15
+2017-06-01,Housekeeping & Laundry,Housekeeping Labor,23663.26
+2017-06-01,Housekeeping & Laundry,Laundry,16938.33
+2017-06-01,Housekeeping & Laundry,Linen Replacement,2183.24
+2017-06-01,Utilities,Electricity,4942.08
+2017-06-01,Utilities,Water,19002.55
+2017-06-01,Utilities,Gas,1966.56
+2017-06-01,Sales & Marketing,OTA Commissions,27170.02
+2017-06-01,Sales & Marketing,Advertising,8439.64
+2017-06-01,Sales & Marketing,Promotions,4421.61
+2017-06-01,Maintenance & Repairs,Preventive Maintenance,2342.35
+2017-06-01,Maintenance & Repairs,Repairs,4933.96
+2017-06-01,Maintenance & Repairs,Equipment Maintenance,26436.13
+2017-06-01,Administrative & General,Management Salaries,21978.96
+2017-06-01,Administrative & General,IT Costs,15227.19
+2017-06-01,Administrative & General,Insurance,2002.69
+2017-07-01,Rooms Department,Front Office Labor,39751.34
+2017-07-01,Rooms Department,Guest Amenities,3301.14
+2017-07-01,Rooms Department,Cleaning Supplies,3512.04
+2017-07-01,Housekeeping & Laundry,Housekeeping Labor,30698.96
+2017-07-01,Housekeeping & Laundry,Laundry,9545.29
+2017-07-01,Housekeeping & Laundry,Linen Replacement,2195.83
+2017-07-01,Utilities,Electricity,2973.2
+2017-07-01,Utilities,Water,10965.69
+2017-07-01,Utilities,Gas,44671.47
+2017-07-01,Sales & Marketing,OTA Commissions,15404.44
+2017-07-01,Sales & Marketing,Advertising,18007.4
+2017-07-01,Sales & Marketing,Promotions,2836.11
+2017-07-01,Maintenance & Repairs,Preventive Maintenance,11485.85
+2017-07-01,Maintenance & Repairs,Repairs,18345.17
+2017-07-01,Maintenance & Repairs,Equipment Maintenance,5873.18
+2017-07-01,Administrative & General,Management Salaries,40870.71
+2017-07-01,Administrative & General,IT Costs,9862.83
+2017-07-01,Administrative & General,Insurance,2722.77
+2017-08-01,Rooms Department,Front Office Labor,22028.43
+2017-08-01,Rooms Department,Guest Amenities,21954.16
+2017-08-01,Rooms Department,Cleaning Supplies,15205.11
+2017-08-01,Housekeeping & Laundry,Housekeeping Labor,3624.8
+2017-08-01,Housekeeping & Laundry,Laundry,35747.75
+2017-08-01,Housekeeping & Laundry,Linen Replacement,33912.68
+2017-08-01,Utilities,Electricity,21187.06
+2017-08-01,Utilities,Water,1315.71
+2017-08-01,Utilities,Gas,21890.1
+2017-08-01,Sales & Marketing,OTA Commissions,22943.82
+2017-08-01,Sales & Marketing,Advertising,12544.57
+2017-08-01,Sales & Marketing,Promotions,17825.69
+2017-08-01,Maintenance & Repairs,Preventive Maintenance,23457.43
+2017-08-01,Maintenance & Repairs,Repairs,30835.04
+2017-08-01,Maintenance & Repairs,Equipment Maintenance,5311.1
+2017-08-01,Administrative & General,Management Salaries,15208.03
+2017-08-01,Administrative & General,IT Costs,26269.51
+2017-08-01,Administrative & General,Insurance,27189.24
+2017-09-01,Rooms Department,Front Office Labor,737.33
+2017-09-01,Rooms Department,Guest Amenities,17478.91
+2017-09-01,Rooms Department,Cleaning Supplies,812.12
+2017-09-01,Housekeeping & Laundry,Housekeeping Labor,2343.41
+2017-09-01,Housekeeping & Laundry,Laundry,9736.17
+2017-09-01,Housekeeping & Laundry,Linen Replacement,8339.43
+2017-09-01,Utilities,Electricity,3197.15
+2017-09-01,Utilities,Water,13519.35
+2017-09-01,Utilities,Gas,5796.88
+2017-09-01,Sales & Marketing,OTA Commissions,8996.53
+2017-09-01,Sales & Marketing,Advertising,11587.68
+2017-09-01,Sales & Marketing,Promotions,4184.2
+2017-09-01,Maintenance & Repairs,Preventive Maintenance,4090.65
+2017-09-01,Maintenance & Repairs,Repairs,25929.62
+2017-09-01,Maintenance & Repairs,Equipment Maintenance,1407.84
+2017-09-01,Administrative & General,Management Salaries,2994.35
+2017-09-01,Administrative & General,IT Costs,10323.87
+2017-09-01,Administrative & General,Insurance,8269.25
+2017-10-01,Rooms Department,Front Office Labor,4416.22
+2017-10-01,Rooms Department,Guest Amenities,24463.89
+2017-10-01,Rooms Department,Cleaning Supplies,2765.76
+2017-10-01,Housekeeping & Laundry,Housekeeping Labor,824.69
+2017-10-01,Housekeeping & Laundry,Laundry,10200.26
+2017-10-01,Housekeeping & Laundry,Linen Replacement,15843.19
+2017-10-01,Utilities,Electricity,19731.45
+2017-10-01,Utilities,Water,4221.47
+2017-10-01,Utilities,Gas,6927.13
+2017-10-01,Sales & Marketing,OTA Commissions,37360.25
+2017-10-01,Sales & Marketing,Advertising,2797.37
+2017-10-01,Sales & Marketing,Promotions,5999.16
+2017-10-01,Maintenance & Repairs,Preventive Maintenance,474.88
+2017-10-01,Maintenance & Repairs,Repairs,6225.43
+2017-10-01,Maintenance & Repairs,Equipment Maintenance,33893.37
+2017-10-01,Administrative & General,Management Salaries,30338.15
+2017-10-01,Administrative & General,IT Costs,5756.43
+2017-10-01,Administrative & General,Insurance,2685.85
+2017-11-01,Rooms Department,Front Office Labor,43197.98
+2017-11-01,Rooms Department,Guest Amenities,152.29
+2017-11-01,Rooms Department,Cleaning Supplies,22375.53
+2017-11-01,Housekeeping & Laundry,Housekeeping Labor,16292.33
+2017-11-01,Housekeeping & Laundry,Laundry,16471.86
+2017-11-01,Housekeeping & Laundry,Linen Replacement,27511.55
+2017-11-01,Utilities,Electricity,16491.75
+2017-11-01,Utilities,Water,3187.18
+2017-11-01,Utilities,Gas,31412.73
+2017-11-01,Sales & Marketing,OTA Commissions,11553.46
+2017-11-01,Sales & Marketing,Advertising,19568.08
+2017-11-01,Sales & Marketing,Promotions,20544.9
+2017-11-01,Maintenance & Repairs,Preventive Maintenance,11229.86
+2017-11-01,Maintenance & Repairs,Repairs,41323.82
+2017-11-01,Maintenance & Repairs,Equipment Maintenance,8797.15
+2017-11-01,Administrative & General,Management Salaries,9512.77
+2017-11-01,Administrative & General,IT Costs,17127.21
+2017-11-01,Administrative & General,Insurance,13428.53
+2017-12-01,Rooms Department,Front Office Labor,36325.81
+2017-12-01,Rooms Department,Guest Amenities,4086.82
+2017-12-01,Rooms Department,Cleaning Supplies,3143.87
+2017-12-01,Housekeeping & Laundry,Housekeeping Labor,1350.71
+2017-12-01,Housekeeping & Laundry,Laundry,19714.2
+2017-12-01,Housekeeping & Laundry,Linen Replacement,20925.21
+2017-12-01,Utilities,Electricity,21139.87
+2017-12-01,Utilities,Water,10322.42
+2017-12-01,Utilities,Gas,21940.62
+2017-12-01,Sales & Marketing,OTA Commissions,19986.17
+2017-12-01,Sales & Marketing,Advertising,15705.76
+2017-12-01,Sales & Marketing,Promotions,12596.04
+2017-12-01,Maintenance & Repairs,Preventive Maintenance,384.19
+2017-12-01,Maintenance & Repairs,Repairs,17680.11
+2017-12-01,Maintenance & Repairs,Equipment Maintenance,11805.96
+2017-12-01,Administrative & General,Management Salaries,4368.19
+2017-12-01,Administrative & General,IT Costs,22793.65
+2017-12-01,Administrative & General,Insurance,23625.21
+2018-01-01,Rooms Department,Front Office Labor,2159.47
+2018-01-01,Rooms Department,Guest Amenities,26783.81
+2018-01-01,Rooms Department,Cleaning Supplies,9194.95
+2018-01-01,Housekeeping & Laundry,Housekeeping Labor,12814.27
+2018-01-01,Housekeeping & Laundry,Laundry,11688.53
+2018-01-01,Housekeeping & Laundry,Linen Replacement,23821.49
+2018-01-01,Utilities,Electricity,20887.2
+2018-01-01,Utilities,Water,7341.67
+2018-01-01,Utilities,Gas,10053.02
+2018-01-01,Sales & Marketing,OTA Commissions,10580.17
+2018-01-01,Sales & Marketing,Advertising,2914.15
+2018-01-01,Sales & Marketing,Promotions,38995.81
+2018-01-01,Maintenance & Repairs,Preventive Maintenance,24203.04
+2018-01-01,Maintenance & Repairs,Repairs,324.66
+2018-01-01,Maintenance & Repairs,Equipment Maintenance,8396.4
+2018-01-01,Administrative & General,Management Salaries,16969.12
+2018-01-01,Administrative & General,IT Costs,1748.92
+2018-01-01,Administrative & General,Insurance,14033.0
+2018-02-01,Rooms Department,Front Office Labor,14437.38
+2018-02-01,Rooms Department,Guest Amenities,23265.94
+2018-02-01,Rooms Department,Cleaning Supplies,6466.58
+2018-02-01,Housekeeping & Laundry,Housekeeping Labor,33967.07
+2018-02-01,Housekeeping & Laundry,Laundry,5174.73
+2018-02-01,Housekeeping & Laundry,Linen Replacement,3331.09
+2018-02-01,Utilities,Electricity,10800.62
+2018-02-01,Utilities,Water,26274.32
+2018-02-01,Utilities,Gas,17614.03
+2018-02-01,Sales & Marketing,OTA Commissions,23957.81
+2018-02-01,Sales & Marketing,Advertising,9365.13
+2018-02-01,Sales & Marketing,Promotions,22408.28
+2018-02-01,Maintenance & Repairs,Preventive Maintenance,11848.28
+2018-02-01,Maintenance & Repairs,Repairs,47044.45
+2018-02-01,Maintenance & Repairs,Equipment Maintenance,2844.72
+2018-02-01,Administrative & General,Management Salaries,13319.12
+2018-02-01,Administrative & General,IT Costs,19817.73
+2018-02-01,Administrative & General,Insurance,8633.22
+2018-03-01,Rooms Department,Front Office Labor,29783.94
+2018-03-01,Rooms Department,Guest Amenities,30881.32
+2018-03-01,Rooms Department,Cleaning Supplies,3709.39
+2018-03-01,Housekeeping & Laundry,Housekeeping Labor,6282.76
+2018-03-01,Housekeeping & Laundry,Laundry,32207.45
+2018-03-01,Housekeeping & Laundry,Linen Replacement,8221.05
+2018-03-01,Utilities,Electricity,28885.85
+2018-03-01,Utilities,Water,112.13
+2018-03-01,Utilities,Gas,20451.64
+2018-03-01,Sales & Marketing,OTA Commissions,3922.62
+2018-03-01,Sales & Marketing,Advertising,15337.02
+2018-03-01,Sales & Marketing,Promotions,38248.27
+2018-03-01,Maintenance & Repairs,Preventive Maintenance,31809.79
+2018-03-01,Maintenance & Repairs,Repairs,3974.06
+2018-03-01,Maintenance & Repairs,Equipment Maintenance,5653.07
+2018-03-01,Administrative & General,Management Salaries,41754.5
+2018-03-01,Administrative & General,IT Costs,2540.61
+2018-03-01,Administrative & General,Insurance,29653.67
+2018-04-01,Rooms Department,Front Office Labor,4350.17
+2018-04-01,Rooms Department,Guest Amenities,2029.23
+2018-04-01,Rooms Department,Cleaning Supplies,24871.98
+2018-04-01,Housekeeping & Laundry,Housekeeping Labor,14660.81
+2018-04-01,Housekeeping & Laundry,Laundry,32190.68
+2018-04-01,Housekeeping & Laundry,Linen Replacement,2090.98
+2018-04-01,Utilities,Electricity,10287.23
+2018-04-01,Utilities,Water,15430.63
+2018-04-01,Utilities,Gas,18977.15
+2018-04-01,Sales & Marketing,OTA Commissions,11099.56
+2018-04-01,Sales & Marketing,Advertising,11464.08
+2018-04-01,Sales & Marketing,Promotions,26284.67
+2018-04-01,Maintenance & Repairs,Preventive Maintenance,4447.37
+2018-04-01,Maintenance & Repairs,Repairs,34916.65
+2018-04-01,Maintenance & Repairs,Equipment Maintenance,1335.11
+2018-04-01,Administrative & General,Management Salaries,14041.4
+2018-04-01,Administrative & General,IT Costs,21828.86
+2018-04-01,Administrative & General,Insurance,4785.66
+2018-05-01,Rooms Department,Front Office Labor,1034.44
+2018-05-01,Rooms Department,Guest Amenities,7210.03
+2018-05-01,Rooms Department,Cleaning Supplies,25128.94
+2018-05-01,Housekeeping & Laundry,Housekeeping Labor,4668.48
+2018-05-01,Housekeeping & Laundry,Laundry,11175.41
+2018-05-01,Housekeeping & Laundry,Linen Replacement,12364.94
+2018-05-01,Utilities,Electricity,5188.52
+2018-05-01,Utilities,Water,24649.97
+2018-05-01,Utilities,Gas,3952.5
+2018-05-01,Sales & Marketing,OTA Commissions,6458.21
+2018-05-01,Sales & Marketing,Advertising,2655.62
+2018-05-01,Sales & Marketing,Promotions,16653.23
+2018-05-01,Maintenance & Repairs,Preventive Maintenance,8837.83
+2018-05-01,Maintenance & Repairs,Repairs,11008.06
+2018-05-01,Maintenance & Repairs,Equipment Maintenance,5056.95
+2018-05-01,Administrative & General,Management Salaries,18321.38
+2018-05-01,Administrative & General,IT Costs,10540.08
+2018-05-01,Administrative & General,Insurance,6093.38
+2018-06-01,Rooms Department,Front Office Labor,16442.75
+2018-06-01,Rooms Department,Guest Amenities,494.21
+2018-06-01,Rooms Department,Cleaning Supplies,14286.99
+2018-06-01,Housekeeping & Laundry,Housekeeping Labor,19559.85
+2018-06-01,Housekeeping & Laundry,Laundry,927.73
+2018-06-01,Housekeeping & Laundry,Linen Replacement,5190.88
+2018-06-01,Utilities,Electricity,5376.23
+2018-06-01,Utilities,Water,8062.39
+2018-06-01,Utilities,Gas,12617.44
+2018-06-01,Sales & Marketing,OTA Commissions,16319.37
+2018-06-01,Sales & Marketing,Advertising,5048.85
+2018-06-01,Sales & Marketing,Promotions,1634.91
+2018-06-01,Maintenance & Repairs,Preventive Maintenance,11180.86
+2018-06-01,Maintenance & Repairs,Repairs,5740.42
+2018-06-01,Maintenance & Repairs,Equipment Maintenance,12179.79
+2018-06-01,Administrative & General,Management Salaries,13845.58
+2018-06-01,Administrative & General,IT Costs,21801.44
+2018-06-01,Administrative & General,Insurance,159.17
+2018-07-01,Rooms Department,Front Office Labor,16439.72
+2018-07-01,Rooms Department,Guest Amenities,12897.88
+2018-07-01,Rooms Department,Cleaning Supplies,11877.58
+2018-07-01,Housekeeping & Laundry,Housekeeping Labor,58170.92
+2018-07-01,Housekeeping & Laundry,Laundry,2013.06
+2018-07-01,Housekeeping & Laundry,Linen Replacement,2927.52
+2018-07-01,Utilities,Electricity,15602.78
+2018-07-01,Utilities,Water,50185.26
+2018-07-01,Utilities,Gas,6727.13
+2018-07-01,Sales & Marketing,OTA Commissions,40859.38
+2018-07-01,Sales & Marketing,Advertising,18868.71
+2018-07-01,Sales & Marketing,Promotions,5374.57
+2018-07-01,Maintenance & Repairs,Preventive Maintenance,34594.07
+2018-07-01,Maintenance & Repairs,Repairs,7047.57
+2018-07-01,Maintenance & Repairs,Equipment Maintenance,9615.81
+2018-07-01,Administrative & General,Management Salaries,818.64
+2018-07-01,Administrative & General,IT Costs,30310.48
+2018-07-01,Administrative & General,Insurance,40619.08
+2018-08-01,Rooms Department,Front Office Labor,34044.03
+2018-08-01,Rooms Department,Guest Amenities,4639.67
+2018-08-01,Rooms Department,Cleaning Supplies,7444.17
+2018-08-01,Housekeeping & Laundry,Housekeeping Labor,27148.2
+2018-08-01,Housekeeping & Laundry,Laundry,19759.71
+2018-08-01,Housekeeping & Laundry,Linen Replacement,3745.16
+2018-08-01,Utilities,Electricity,50559.51
+2018-08-01,Utilities,Water,22063.75
+2018-08-01,Utilities,Gas,665.13
+2018-08-01,Sales & Marketing,OTA Commissions,18096.23
+2018-08-01,Sales & Marketing,Advertising,30183.49
+2018-08-01,Sales & Marketing,Promotions,26138.47
+2018-08-01,Maintenance & Repairs,Preventive Maintenance,4134.18
+2018-08-01,Maintenance & Repairs,Repairs,50796.68
+2018-08-01,Maintenance & Repairs,Equipment Maintenance,19952.06
+2018-08-01,Administrative & General,Management Salaries,18956.34
+2018-08-01,Administrative & General,IT Costs,4213.65
+2018-08-01,Administrative & General,Insurance,56808.44
+2018-09-01,Rooms Department,Front Office Labor,1303.69
+2018-09-01,Rooms Department,Guest Amenities,18854.52
+2018-09-01,Rooms Department,Cleaning Supplies,23996.9
+2018-09-01,Housekeeping & Laundry,Housekeeping Labor,7697.0
+2018-09-01,Housekeeping & Laundry,Laundry,10503.47
+2018-09-01,Housekeeping & Laundry,Linen Replacement,24510.91
+2018-09-01,Utilities,Electricity,5048.56
+2018-09-01,Utilities,Water,24001.69
+2018-09-01,Utilities,Gas,10458.33
+2018-09-01,Sales & Marketing,OTA Commissions,16875.08
+2018-09-01,Sales & Marketing,Advertising,207.86
+2018-09-01,Sales & Marketing,Promotions,28020.62
+2018-09-01,Maintenance & Repairs,Preventive Maintenance,22281.43
+2018-09-01,Maintenance & Repairs,Repairs,178.35
+2018-09-01,Maintenance & Repairs,Equipment Maintenance,11832.85
+2018-09-01,Administrative & General,Management Salaries,3253.32
+2018-09-01,Administrative & General,IT Costs,34080.38
+2018-09-01,Administrative & General,Insurance,10895.76
+2018-10-01,Rooms Department,Front Office Labor,15632.51
+2018-10-01,Rooms Department,Guest Amenities,615.09
+2018-10-01,Rooms Department,Cleaning Supplies,19336.15
+2018-10-01,Housekeeping & Laundry,Housekeeping Labor,2272.86
+2018-10-01,Housekeeping & Laundry,Laundry,17051.71
+2018-10-01,Housekeeping & Laundry,Linen Replacement,16630.22
+2018-10-01,Utilities,Electricity,30466.09
+2018-10-01,Utilities,Water,223.69
+2018-10-01,Utilities,Gas,8228.68
+2018-10-01,Sales & Marketing,OTA Commissions,10654.76
+2018-10-01,Sales & Marketing,Advertising,22544.17
+2018-10-01,Sales & Marketing,Promotions,2172.16
+2018-10-01,Maintenance & Repairs,Preventive Maintenance,15540.55
+2018-10-01,Maintenance & Repairs,Repairs,9696.42
+2018-10-01,Maintenance & Repairs,Equipment Maintenance,10461.31
+2018-10-01,Administrative & General,Management Salaries,12102.43
+2018-10-01,Administrative & General,IT Costs,3906.95
+2018-10-01,Administrative & General,Insurance,7465.93
+2018-11-01,Rooms Department,Front Office Labor,12641.55
+2018-11-01,Rooms Department,Guest Amenities,20099.55
+2018-11-01,Rooms Department,Cleaning Supplies,15988.24
+2018-11-01,Housekeeping & Laundry,Housekeeping Labor,7740.63
+2018-11-01,Housekeeping & Laundry,Laundry,12374.2
+2018-11-01,Housekeeping & Laundry,Linen Replacement,21692.26
+2018-11-01,Utilities,Electricity,9344.63
+2018-11-01,Utilities,Water,16609.91
+2018-11-01,Utilities,Gas,19609.14
+2018-11-01,Sales & Marketing,OTA Commissions,6634.71
+2018-11-01,Sales & Marketing,Advertising,20835.66
+2018-11-01,Sales & Marketing,Promotions,6056.32
+2018-11-01,Maintenance & Repairs,Preventive Maintenance,10807.13
+2018-11-01,Maintenance & Repairs,Repairs,10616.62
+2018-11-01,Maintenance & Repairs,Equipment Maintenance,23467.35
+2018-11-01,Administrative & General,Management Salaries,12148.54
+2018-11-01,Administrative & General,IT Costs,11285.33
+2018-11-01,Administrative & General,Insurance,17518.32
+2018-12-01,Rooms Department,Front Office Labor,4679.07
+2018-12-01,Rooms Department,Guest Amenities,33997.72
+2018-12-01,Rooms Department,Cleaning Supplies,17234.04
+2018-12-01,Housekeeping & Laundry,Housekeeping Labor,61044.29
+2018-12-01,Housekeeping & Laundry,Laundry,5633.84
+2018-12-01,Housekeeping & Laundry,Linen Replacement,4619.58
+2018-12-01,Utilities,Electricity,11002.61
+2018-12-01,Utilities,Water,12764.0
+2018-12-01,Utilities,Gas,35145.98
+2018-12-01,Sales & Marketing,OTA Commissions,9663.51
+2018-12-01,Sales & Marketing,Advertising,15751.79
+2018-12-01,Sales & Marketing,Promotions,16998.57
+2018-12-01,Maintenance & Repairs,Preventive Maintenance,35286.82
+2018-12-01,Maintenance & Repairs,Repairs,17332.94
+2018-12-01,Maintenance & Repairs,Equipment Maintenance,4775.46
+2018-12-01,Administrative & General,Management Salaries,6144.88
+2018-12-01,Administrative & General,IT Costs,7231.42
+2018-12-01,Administrative & General,Insurance,57828.5
+2019-01-01,Rooms Department,Front Office Labor,9543.55
+2019-01-01,Rooms Department,Guest Amenities,17100.99
+2019-01-01,Rooms Department,Cleaning Supplies,10752.86
+2019-01-01,Housekeeping & Laundry,Housekeeping Labor,2001.45
+2019-01-01,Housekeeping & Laundry,Laundry,37206.8
+2019-01-01,Housekeeping & Laundry,Linen Replacement,3887.58
+2019-01-01,Utilities,Electricity,45838.23
+2019-01-01,Utilities,Water,8679.1
+2019-01-01,Utilities,Gas,6504.02
+2019-01-01,Sales & Marketing,OTA Commissions,27202.86
+2019-01-01,Sales & Marketing,Advertising,1784.73
+2019-01-01,Sales & Marketing,Promotions,8325.92
+2019-01-01,Maintenance & Repairs,Preventive Maintenance,2057.81
+2019-01-01,Maintenance & Repairs,Repairs,7764.97
+2019-01-01,Maintenance & Repairs,Equipment Maintenance,30745.53
+2019-01-01,Administrative & General,Management Salaries,46241.0
+2019-01-01,Administrative & General,IT Costs,5671.86
+2019-01-01,Administrative & General,Insurance,8717.28
+2019-02-01,Rooms Department,Front Office Labor,20795.94
+2019-02-01,Rooms Department,Guest Amenities,1534.58
+2019-02-01,Rooms Department,Cleaning Supplies,32822.71
+2019-02-01,Housekeeping & Laundry,Housekeeping Labor,24880.88
+2019-02-01,Housekeeping & Laundry,Laundry,474.65
+2019-02-01,Housekeeping & Laundry,Linen Replacement,6787.56
+2019-02-01,Utilities,Electricity,19812.11
+2019-02-01,Utilities,Water,13911.38
+2019-02-01,Utilities,Gas,2168.62
+2019-02-01,Sales & Marketing,OTA Commissions,9041.98
+2019-02-01,Sales & Marketing,Advertising,37708.15
+2019-02-01,Sales & Marketing,Promotions,2965.61
+2019-02-01,Maintenance & Repairs,Preventive Maintenance,28891.02
+2019-02-01,Maintenance & Repairs,Repairs,6642.57
+2019-02-01,Maintenance & Repairs,Equipment Maintenance,7705.14
+2019-02-01,Administrative & General,Management Salaries,8610.18
+2019-02-01,Administrative & General,IT Costs,30950.36
+2019-02-01,Administrative & General,Insurance,15362.83
+2019-03-01,Rooms Department,Front Office Labor,25044.99
+2019-03-01,Rooms Department,Guest Amenities,19942.47
+2019-03-01,Rooms Department,Cleaning Supplies,147.6
+2019-03-01,Housekeeping & Laundry,Housekeeping Labor,37651.72
+2019-03-01,Housekeeping & Laundry,Laundry,15184.22
+2019-03-01,Housekeeping & Laundry,Linen Replacement,2649.67
+2019-03-01,Utilities,Electricity,42403.13
+2019-03-01,Utilities,Water,5777.49
+2019-03-01,Utilities,Gas,6316.74
+2019-03-01,Sales & Marketing,OTA Commissions,4737.18
+2019-03-01,Sales & Marketing,Advertising,3750.75
+2019-03-01,Sales & Marketing,Promotions,28175.18
+2019-03-01,Maintenance & Repairs,Preventive Maintenance,17339.88
+2019-03-01,Maintenance & Repairs,Repairs,32526.54
+2019-03-01,Maintenance & Repairs,Equipment Maintenance,2364.83
+2019-03-01,Administrative & General,Management Salaries,34554.4
+2019-03-01,Administrative & General,IT Costs,21921.35
+2019-03-01,Administrative & General,Insurance,4954.36
+2019-04-01,Rooms Department,Front Office Labor,1541.41
+2019-04-01,Rooms Department,Guest Amenities,5281.87
+2019-04-01,Rooms Department,Cleaning Supplies,29826.63
+2019-04-01,Housekeeping & Laundry,Housekeeping Labor,15457.9
+2019-04-01,Housekeeping & Laundry,Laundry,9111.79
+2019-04-01,Housekeeping & Laundry,Linen Replacement,912.94
+2019-04-01,Utilities,Electricity,15669.48
+2019-04-01,Utilities,Water,7631.92
+2019-04-01,Utilities,Gas,1318.1
+2019-04-01,Sales & Marketing,OTA Commissions,4202.35
+2019-04-01,Sales & Marketing,Advertising,27046.46
+2019-04-01,Sales & Marketing,Promotions,3920.32
+2019-04-01,Maintenance & Repairs,Preventive Maintenance,4453.25
+2019-04-01,Maintenance & Repairs,Repairs,16330.6
+2019-04-01,Maintenance & Repairs,Equipment Maintenance,396.14
+2019-04-01,Administrative & General,Management Salaries,3589.38
+2019-04-01,Administrative & General,IT Costs,2537.51
+2019-04-01,Administrative & General,Insurance,26716.24
+2019-05-01,Rooms Department,Front Office Labor,5344.16
+2019-05-01,Rooms Department,Guest Amenities,33800.33
+2019-05-01,Rooms Department,Cleaning Supplies,5849.65
+2019-05-01,Housekeeping & Laundry,Housekeeping Labor,16477.09
+2019-05-01,Housekeeping & Laundry,Laundry,8334.93
+2019-05-01,Housekeeping & Laundry,Linen Replacement,3942.64
+2019-05-01,Utilities,Electricity,1685.33
+2019-05-01,Utilities,Water,43765.82
+2019-05-01,Utilities,Gas,1141.81
+2019-05-01,Sales & Marketing,OTA Commissions,22640.31
+2019-05-01,Sales & Marketing,Advertising,11332.64
+2019-05-01,Sales & Marketing,Promotions,4034.94
+2019-05-01,Maintenance & Repairs,Preventive Maintenance,30208.95
+2019-05-01,Maintenance & Repairs,Repairs,4585.16
+2019-05-01,Maintenance & Repairs,Equipment Maintenance,6402.55
+2019-05-01,Administrative & General,Management Salaries,2357.79
+2019-05-01,Administrative & General,IT Costs,1339.79
+2019-05-01,Administrative & General,Insurance,42550.82
+2019-06-01,Rooms Department,Front Office Labor,15619.72
+2019-06-01,Rooms Department,Guest Amenities,11020.79
+2019-06-01,Rooms Department,Cleaning Supplies,421.72
+2019-06-01,Housekeeping & Laundry,Housekeeping Labor,17366.3
+2019-06-01,Housekeeping & Laundry,Laundry,7003.57
+2019-06-01,Housekeeping & Laundry,Linen Replacement,2445.66
+2019-06-01,Utilities,Electricity,3269.55
+2019-06-01,Utilities,Water,27274.94
+2019-06-01,Utilities,Gas,3270.86
+2019-06-01,Sales & Marketing,OTA Commissions,27584.29
+2019-06-01,Sales & Marketing,Advertising,4840.42
+2019-06-01,Sales & Marketing,Promotions,334.63
+2019-06-01,Maintenance & Repairs,Preventive Maintenance,7906.05
+2019-06-01,Maintenance & Repairs,Repairs,1983.65
+2019-06-01,Maintenance & Repairs,Equipment Maintenance,14625.74
+2019-06-01,Administrative & General,Management Salaries,18950.34
+2019-06-01,Administrative & General,IT Costs,10514.65
+2019-06-01,Administrative & General,Insurance,969.6
+2019-07-01,Rooms Department,Front Office Labor,2240.4
+2019-07-01,Rooms Department,Guest Amenities,12511.27
+2019-07-01,Rooms Department,Cleaning Supplies,14027.01
+2019-07-01,Housekeeping & Laundry,Housekeeping Labor,5736.72
+2019-07-01,Housekeeping & Laundry,Laundry,29142.93
+2019-07-01,Housekeeping & Laundry,Linen Replacement,10641.9
+2019-07-01,Utilities,Electricity,3577.05
+2019-07-01,Utilities,Water,7758.49
+2019-07-01,Utilities,Gas,22961.62
+2019-07-01,Sales & Marketing,OTA Commissions,7232.95
+2019-07-01,Sales & Marketing,Advertising,17640.32
+2019-07-01,Sales & Marketing,Promotions,9137.99
+2019-07-01,Maintenance & Repairs,Preventive Maintenance,4419.19
+2019-07-01,Maintenance & Repairs,Repairs,941.22
+2019-07-01,Maintenance & Repairs,Equipment Maintenance,39337.57
+2019-07-01,Administrative & General,Management Salaries,4414.59
+2019-07-01,Administrative & General,IT Costs,20405.53
+2019-07-01,Administrative & General,Insurance,4873.29
+2019-08-01,Rooms Department,Front Office Labor,8323.94
+2019-08-01,Rooms Department,Guest Amenities,27574.51
+2019-08-01,Rooms Department,Cleaning Supplies,13748.8
+2019-08-01,Housekeeping & Laundry,Housekeeping Labor,3010.95
+2019-08-01,Housekeeping & Laundry,Laundry,27674.23
+2019-08-01,Housekeeping & Laundry,Linen Replacement,5360.48
+2019-08-01,Utilities,Electricity,32948.27
+2019-08-01,Utilities,Water,14628.6
+2019-08-01,Utilities,Gas,1409.57
+2019-08-01,Sales & Marketing,OTA Commissions,24066.45
+2019-08-01,Sales & Marketing,Advertising,14523.85
+2019-08-01,Sales & Marketing,Promotions,11500.4
+2019-08-01,Maintenance & Repairs,Preventive Maintenance,7754.5
+2019-08-01,Maintenance & Repairs,Repairs,32187.36
+2019-08-01,Maintenance & Repairs,Equipment Maintenance,4345.26
+2019-08-01,Administrative & General,Management Salaries,16074.76
+2019-08-01,Administrative & General,IT Costs,13448.81
+2019-08-01,Administrative & General,Insurance,10929.26
+2019-09-01,Rooms Department,Front Office Labor,11380.71
+2019-09-01,Rooms Department,Guest Amenities,5973.94
+2019-09-01,Rooms Department,Cleaning Supplies,9010.1
+2019-09-01,Housekeeping & Laundry,Housekeeping Labor,2939.77
+2019-09-01,Housekeeping & Laundry,Laundry,14607.8
+2019-09-01,Housekeeping & Laundry,Linen Replacement,9280.19
+2019-09-01,Utilities,Electricity,17581.35
+2019-09-01,Utilities,Water,5304.83
+2019-09-01,Utilities,Gas,7330.1
+2019-09-01,Sales & Marketing,OTA Commissions,20043.95
+2019-09-01,Sales & Marketing,Advertising,15874.69
+2019-09-01,Sales & Marketing,Promotions,520.5
+2019-09-01,Maintenance & Repairs,Preventive Maintenance,3717.17
+2019-09-01,Maintenance & Repairs,Repairs,7711.3
+2019-09-01,Maintenance & Repairs,Equipment Maintenance,13003.17
+2019-09-01,Administrative & General,Management Salaries,8589.48
+2019-09-01,Administrative & General,IT Costs,611.33
+2019-09-01,Administrative & General,Insurance,16370.64
+2019-10-01,Rooms Department,Front Office Labor,6276.67
+2019-10-01,Rooms Department,Guest Amenities,12378.61
+2019-10-01,Rooms Department,Cleaning Supplies,4504.73
+2019-10-01,Housekeeping & Laundry,Housekeeping Labor,22502.64
+2019-10-01,Housekeeping & Laundry,Laundry,4606.16
+2019-10-01,Housekeeping & Laundry,Linen Replacement,5967.27
+2019-10-01,Utilities,Electricity,12517.98
+2019-10-01,Utilities,Water,8566.21
+2019-10-01,Utilities,Gas,10016.19
+2019-10-01,Sales & Marketing,OTA Commissions,8640.5
+2019-10-01,Sales & Marketing,Advertising,5736.01
+2019-10-01,Sales & Marketing,Promotions,10303.5
+2019-10-01,Maintenance & Repairs,Preventive Maintenance,4240.44
+2019-10-01,Maintenance & Repairs,Repairs,11858.68
+2019-10-01,Maintenance & Repairs,Equipment Maintenance,10605.38
+2019-10-01,Administrative & General,Management Salaries,18620.45
+2019-10-01,Administrative & General,IT Costs,2301.37
+2019-10-01,Administrative & General,Insurance,3905.05
+2019-11-01,Rooms Department,Front Office Labor,5177.55
+2019-11-01,Rooms Department,Guest Amenities,14475.27
+2019-11-01,Rooms Department,Cleaning Supplies,40358.46
+2019-11-01,Housekeeping & Laundry,Housekeeping Labor,22838.29
+2019-11-01,Housekeeping & Laundry,Laundry,9093.76
+2019-11-01,Housekeeping & Laundry,Linen Replacement,14690.47
+2019-11-01,Utilities,Electricity,12608.41
+2019-11-01,Utilities,Water,15365.13
+2019-11-01,Utilities,Gas,24243.62
+2019-11-01,Sales & Marketing,OTA Commissions,5339.39
+2019-11-01,Sales & Marketing,Advertising,11607.22
+2019-11-01,Sales & Marketing,Promotions,28812.61
+2019-11-01,Maintenance & Repairs,Preventive Maintenance,6277.56
+2019-11-01,Maintenance & Repairs,Repairs,29536.29
+2019-11-01,Maintenance & Repairs,Equipment Maintenance,4535.22
+2019-11-01,Administrative & General,Management Salaries,31660.52
+2019-11-01,Administrative & General,IT Costs,6513.09
+2019-11-01,Administrative & General,Insurance,17038.92
+2019-12-01,Rooms Department,Front Office Labor,9563.57
+2019-12-01,Rooms Department,Guest Amenities,14344.2
+2019-12-01,Rooms Department,Cleaning Supplies,45569.19
+2019-12-01,Housekeeping & Laundry,Housekeeping Labor,14877.71
+2019-12-01,Housekeeping & Laundry,Laundry,5692.99
+2019-12-01,Housekeeping & Laundry,Linen Replacement,46621.22
+2019-12-01,Utilities,Electricity,15907.65
+2019-12-01,Utilities,Water,11963.97
+2019-12-01,Utilities,Gas,23713.93
+2019-12-01,Sales & Marketing,OTA Commissions,33792.37
+2019-12-01,Sales & Marketing,Advertising,10723.26
+2019-12-01,Sales & Marketing,Promotions,27825.84
+2019-12-01,Maintenance & Repairs,Preventive Maintenance,14236.89
+2019-12-01,Maintenance & Repairs,Repairs,32709.54
+2019-12-01,Maintenance & Repairs,Equipment Maintenance,16517.23
+2019-12-01,Administrative & General,Management Salaries,8912.29
+2019-12-01,Administrative & General,IT Costs,52325.25
+2019-12-01,Administrative & General,Insurance,12521.41
+2020-01-01,Rooms Department,Front Office Labor,40705.92
+2020-01-01,Rooms Department,Guest Amenities,9092.16
+2020-01-01,Rooms Department,Cleaning Supplies,294.02
+2020-01-01,Housekeeping & Laundry,Housekeeping Labor,19100.42
+2020-01-01,Housekeeping & Laundry,Laundry,5152.64
+2020-01-01,Housekeeping & Laundry,Linen Replacement,26336.04
+2020-01-01,Utilities,Electricity,42849.68
+2020-01-01,Utilities,Water,1487.13
+2020-01-01,Utilities,Gas,339.25
+2020-01-01,Sales & Marketing,OTA Commissions,18508.14
+2020-01-01,Sales & Marketing,Advertising,34331.2
+2020-01-01,Sales & Marketing,Promotions,3462.8
+2020-01-01,Maintenance & Repairs,Preventive Maintenance,3719.29
+2020-01-01,Maintenance & Repairs,Repairs,11401.13
+2020-01-01,Maintenance & Repairs,Equipment Maintenance,33170.31
+2020-01-01,Administrative & General,Management Salaries,30532.29
+2020-01-01,Administrative & General,IT Costs,3649.49
+2020-01-01,Administrative & General,Insurance,31756.46
+2020-02-01,Rooms Department,Front Office Labor,337.88
+2020-02-01,Rooms Department,Guest Amenities,17630.57
+2020-02-01,Rooms Department,Cleaning Supplies,26016.38
+2020-02-01,Housekeeping & Laundry,Housekeeping Labor,44084.78
+2020-02-01,Housekeeping & Laundry,Laundry,8096.84
+2020-02-01,Housekeeping & Laundry,Linen Replacement,2543.23
+2020-02-01,Utilities,Electricity,18409.15
+2020-02-01,Utilities,Water,1129.87
+2020-02-01,Utilities,Gas,17318.83
+2020-02-01,Sales & Marketing,OTA Commissions,3150.8
+2020-02-01,Sales & Marketing,Advertising,3610.58
+2020-02-01,Sales & Marketing,Promotions,38157.19
+2020-02-01,Maintenance & Repairs,Preventive Maintenance,21407.97
+2020-02-01,Maintenance & Repairs,Repairs,16060.31
+2020-02-01,Maintenance & Repairs,Equipment Maintenance,911.62
+2020-02-01,Administrative & General,Management Salaries,29961.86
+2020-02-01,Administrative & General,IT Costs,2710.67
+2020-02-01,Administrative & General,Insurance,23661.33
+2020-03-01,Rooms Department,Front Office Labor,19708.36
+2020-03-01,Rooms Department,Guest Amenities,9182.6
+2020-03-01,Rooms Department,Cleaning Supplies,26437.19
+2020-03-01,Housekeeping & Laundry,Housekeeping Labor,1932.74
+2020-03-01,Housekeeping & Laundry,Laundry,33831.38
+2020-03-01,Housekeeping & Laundry,Linen Replacement,27575.12
+2020-03-01,Utilities,Electricity,27451.79
+2020-03-01,Utilities,Water,7429.83
+2020-03-01,Utilities,Gas,13215.93
+2020-03-01,Sales & Marketing,OTA Commissions,22400.33
+2020-03-01,Sales & Marketing,Advertising,9796.66
+2020-03-01,Sales & Marketing,Promotions,15167.8
+2020-03-01,Maintenance & Repairs,Preventive Maintenance,38093.17
+2020-03-01,Maintenance & Repairs,Repairs,25687.3
+2020-03-01,Maintenance & Repairs,Equipment Maintenance,2534.42
+2020-03-01,Administrative & General,Management Salaries,1471.29
+2020-03-01,Administrative & General,IT Costs,12774.99
+2020-03-01,Administrative & General,Insurance,34066.86
+2020-04-01,Rooms Department,Front Office Labor,2317.33
+2020-04-01,Rooms Department,Guest Amenities,22101.17
+2020-04-01,Rooms Department,Cleaning Supplies,12789.22
+2020-04-01,Housekeeping & Laundry,Housekeeping Labor,24243.7
+2020-04-01,Housekeeping & Laundry,Laundry,1572.07
+2020-04-01,Housekeeping & Laundry,Linen Replacement,17764.75
+2020-04-01,Utilities,Electricity,21611.74
+2020-04-01,Utilities,Water,17448.51
+2020-04-01,Utilities,Gas,8373.76
+2020-04-01,Sales & Marketing,OTA Commissions,13496.83
+2020-04-01,Sales & Marketing,Advertising,11707.69
+2020-04-01,Sales & Marketing,Promotions,5727.07
+2020-04-01,Maintenance & Repairs,Preventive Maintenance,6575.79
+2020-04-01,Maintenance & Repairs,Repairs,10972.62
+2020-04-01,Maintenance & Repairs,Equipment Maintenance,21147.97
+2020-04-01,Administrative & General,Management Salaries,23592.98
+2020-04-01,Administrative & General,IT Costs,18323.01
+2020-04-01,Administrative & General,Insurance,488.11
+2020-05-01,Rooms Department,Front Office Labor,5673.2
+2020-05-01,Rooms Department,Guest Amenities,18796.88
+2020-05-01,Rooms Department,Cleaning Supplies,8511.97
+2020-05-01,Housekeeping & Laundry,Housekeeping Labor,11996.4
+2020-05-01,Housekeeping & Laundry,Laundry,4632.56
+2020-05-01,Housekeeping & Laundry,Linen Replacement,4057.02
+2020-05-01,Utilities,Electricity,11750.78
+2020-05-01,Utilities,Water,1710.94
+2020-05-01,Utilities,Gas,16024.26
+2020-05-01,Sales & Marketing,OTA Commissions,5836.31
+2020-05-01,Sales & Marketing,Advertising,6794.9
+2020-05-01,Sales & Marketing,Promotions,19052.65
+2020-05-01,Maintenance & Repairs,Preventive Maintenance,3216.79
+2020-05-01,Maintenance & Repairs,Repairs,21389.32
+2020-05-01,Maintenance & Repairs,Equipment Maintenance,6262.02
+2020-05-01,Administrative & General,Management Salaries,2146.4
+2020-05-01,Administrative & General,IT Costs,6863.44
+2020-05-01,Administrative & General,Insurance,14097.53
+2020-06-01,Rooms Department,Front Office Labor,6950.94
+2020-06-01,Rooms Department,Guest Amenities,2594.02
+2020-06-01,Rooms Department,Cleaning Supplies,26770.96
+2020-06-01,Housekeeping & Laundry,Housekeeping Labor,3892.1
+2020-06-01,Housekeeping & Laundry,Laundry,6446.98
+2020-06-01,Housekeeping & Laundry,Linen Replacement,15377.41
+2020-06-01,Utilities,Electricity,17365.89
+2020-06-01,Utilities,Water,4.29
+2020-06-01,Utilities,Gas,11044.63
+2020-06-01,Sales & Marketing,OTA Commissions,3364.7
+2020-06-01,Sales & Marketing,Advertising,22143.67
+2020-06-01,Sales & Marketing,Promotions,2010.64
+2020-06-01,Maintenance & Repairs,Preventive Maintenance,841.65
+2020-06-01,Maintenance & Repairs,Repairs,13183.69
+2020-06-01,Maintenance & Repairs,Equipment Maintenance,22146.77
+2020-06-01,Administrative & General,Management Salaries,11633.94
+2020-06-01,Administrative & General,IT Costs,17303.28
+2020-06-01,Administrative & General,Insurance,5787.36
+2020-07-01,Rooms Department,Front Office Labor,19820.71
+2020-07-01,Rooms Department,Guest Amenities,636.35
+2020-07-01,Rooms Department,Cleaning Supplies,35358.62
+2020-07-01,Housekeeping & Laundry,Housekeeping Labor,608.6
+2020-07-01,Housekeeping & Laundry,Laundry,17189.44
+2020-07-01,Housekeeping & Laundry,Linen Replacement,23887.51
+2020-07-01,Utilities,Electricity,22177.19
+2020-07-01,Utilities,Water,15104.89
+2020-07-01,Utilities,Gas,24368.74
+2020-07-01,Sales & Marketing,OTA Commissions,24374.76
+2020-07-01,Sales & Marketing,Advertising,6743.18
+2020-07-01,Sales & Marketing,Promotions,15387.32
+2020-07-01,Maintenance & Repairs,Preventive Maintenance,27635.76
+2020-07-01,Maintenance & Repairs,Repairs,6794.95
+2020-07-01,Maintenance & Repairs,Equipment Maintenance,15835.18
+2020-07-01,Administrative & General,Management Salaries,11057.28
+2020-07-01,Administrative & General,IT Costs,11371.84
+2020-07-01,Administrative & General,Insurance,16999.85
+2020-08-01,Rooms Department,Front Office Labor,14808.52
+2020-08-01,Rooms Department,Guest Amenities,39346.3
+2020-08-01,Rooms Department,Cleaning Supplies,13293.55
+2020-08-01,Housekeeping & Laundry,Housekeeping Labor,28306.82
+2020-08-01,Housekeeping & Laundry,Laundry,21370.76
+2020-08-01,Housekeeping & Laundry,Linen Replacement,10401.0
+2020-08-01,Utilities,Electricity,6449.17
+2020-08-01,Utilities,Water,15330.35
+2020-08-01,Utilities,Gas,25186.12
+2020-08-01,Sales & Marketing,OTA Commissions,12014.96
+2020-08-01,Sales & Marketing,Advertising,26396.75
+2020-08-01,Sales & Marketing,Promotions,18529.63
+2020-08-01,Maintenance & Repairs,Preventive Maintenance,43557.59
+2020-08-01,Maintenance & Repairs,Repairs,22228.46
+2020-08-01,Maintenance & Repairs,Equipment Maintenance,11292.95
+2020-08-01,Administrative & General,Management Salaries,62207.51
+2020-08-01,Administrative & General,IT Costs,2458.38
+2020-08-01,Administrative & General,Insurance,11969.6
+2020-09-01,Rooms Department,Front Office Labor,12804.13
+2020-09-01,Rooms Department,Guest Amenities,21052.71
+2020-09-01,Rooms Department,Cleaning Supplies,4251.29
+2020-09-01,Housekeeping & Laundry,Housekeeping Labor,5088.66
+2020-09-01,Housekeeping & Laundry,Laundry,30283.15
+2020-09-01,Housekeeping & Laundry,Linen Replacement,2928.78
+2020-09-01,Utilities,Electricity,2813.66
+2020-09-01,Utilities,Water,20550.98
+2020-09-01,Utilities,Gas,12509.0
+2020-09-01,Sales & Marketing,OTA Commissions,8137.59
+2020-09-01,Sales & Marketing,Advertising,7922.06
+2020-09-01,Sales & Marketing,Promotions,12189.29
+2020-09-01,Maintenance & Repairs,Preventive Maintenance,6754.13
+2020-09-01,Maintenance & Repairs,Repairs,4596.62
+2020-09-01,Maintenance & Repairs,Equipment Maintenance,24956.18
+2020-09-01,Administrative & General,Management Salaries,7288.92
+2020-09-01,Administrative & General,IT Costs,16586.07
+2020-09-01,Administrative & General,Insurance,17051.66
+2020-10-01,Rooms Department,Front Office Labor,20267.77
+2020-10-01,Rooms Department,Guest Amenities,11170.66
+2020-10-01,Rooms Department,Cleaning Supplies,608.8
+2020-10-01,Housekeeping & Laundry,Housekeeping Labor,21851.01
+2020-10-01,Housekeeping & Laundry,Laundry,3936.66
+2020-10-01,Housekeeping & Laundry,Linen Replacement,10065.77
+2020-10-01,Utilities,Electricity,21323.56
+2020-10-01,Utilities,Water,810.99
+2020-10-01,Utilities,Gas,11619.32
+2020-10-01,Sales & Marketing,OTA Commissions,1980.75
+2020-10-01,Sales & Marketing,Advertising,22637.93
+2020-10-01,Sales & Marketing,Promotions,14500.83
+2020-10-01,Maintenance & Repairs,Preventive Maintenance,3823.37
+2020-10-01,Maintenance & Repairs,Repairs,22802.73
+2020-10-01,Maintenance & Repairs,Equipment Maintenance,16792.7
+2020-10-01,Administrative & General,Management Salaries,23737.11
+2020-10-01,Administrative & General,IT Costs,4551.9
+2020-10-01,Administrative & General,Insurance,7662.15
+2020-11-01,Rooms Department,Front Office Labor,14978.95
+2020-11-01,Rooms Department,Guest Amenities,20764.18
+2020-11-01,Rooms Department,Cleaning Supplies,576.66
+2020-11-01,Housekeeping & Laundry,Housekeeping Labor,12805.25
+2020-11-01,Housekeeping & Laundry,Laundry,12322.92
+2020-11-01,Housekeeping & Laundry,Linen Replacement,30889.85
+2020-11-01,Utilities,Electricity,7661.31
+2020-11-01,Utilities,Water,33802.46
+2020-11-01,Utilities,Gas,9101.63
+2020-11-01,Sales & Marketing,OTA Commissions,7625.45
+2020-11-01,Sales & Marketing,Advertising,18986.75
+2020-11-01,Sales & Marketing,Promotions,13036.33
+2020-11-01,Maintenance & Repairs,Preventive Maintenance,5867.55
+2020-11-01,Maintenance & Repairs,Repairs,20341.85
+2020-11-01,Maintenance & Repairs,Equipment Maintenance,7188.31
+2020-11-01,Administrative & General,Management Salaries,13653.55
+2020-11-01,Administrative & General,IT Costs,32740.09
+2020-11-01,Administrative & General,Insurance,13871.34
+2020-12-01,Rooms Department,Front Office Labor,66.37
+2020-12-01,Rooms Department,Guest Amenities,20353.22
+2020-12-01,Rooms Department,Cleaning Supplies,41325.52
+2020-12-01,Housekeeping & Laundry,Housekeeping Labor,32133.21
+2020-12-01,Housekeeping & Laundry,Laundry,8137.48
+2020-12-01,Housekeeping & Laundry,Linen Replacement,4309.91
+2020-12-01,Utilities,Electricity,3167.11
+2020-12-01,Utilities,Water,29781.85
+2020-12-01,Utilities,Gas,16961.53
+2020-12-01,Sales & Marketing,OTA Commissions,3312.16
+2020-12-01,Sales & Marketing,Advertising,8062.85
+2020-12-01,Sales & Marketing,Promotions,25603.76
+2020-12-01,Maintenance & Repairs,Preventive Maintenance,8760.94
+2020-12-01,Maintenance & Repairs,Repairs,3434.74
+2020-12-01,Maintenance & Repairs,Equipment Maintenance,35747.31
+2020-12-01,Administrative & General,Management Salaries,276.13
+2020-12-01,Administrative & General,IT Costs,40786.5
+2020-12-01,Administrative & General,Insurance,6350.47
+2021-01-01,Rooms Department,Front Office Labor,20024.54
+2021-01-01,Rooms Department,Guest Amenities,12814.08
+2021-01-01,Rooms Department,Cleaning Supplies,9649.03
+2021-01-01,Housekeeping & Laundry,Housekeeping Labor,14491.13
+2021-01-01,Housekeeping & Laundry,Laundry,17378.7
+2021-01-01,Housekeeping & Laundry,Linen Replacement,8102.73
+2021-01-01,Utilities,Electricity,23228.83
+2021-01-01,Utilities,Water,23429.12
+2021-01-01,Utilities,Gas,6242.86
+2021-01-01,Sales & Marketing,OTA Commissions,764.61
+2021-01-01,Sales & Marketing,Advertising,48003.97
+2021-01-01,Sales & Marketing,Promotions,11072.07
+2021-01-01,Maintenance & Repairs,Preventive Maintenance,25224.84
+2021-01-01,Maintenance & Repairs,Repairs,15735.27
+2021-01-01,Maintenance & Repairs,Equipment Maintenance,23825.78
+2021-01-01,Administrative & General,Management Salaries,18817.6
+2021-01-01,Administrative & General,IT Costs,10691.19
+2021-01-01,Administrative & General,Insurance,11573.7
+2021-02-01,Rooms Department,Front Office Labor,32139.22
+2021-02-01,Rooms Department,Guest Amenities,12117.81
+2021-02-01,Rooms Department,Cleaning Supplies,11005.46
+2021-02-01,Housekeeping & Laundry,Housekeeping Labor,2115.22
+2021-02-01,Housekeeping & Laundry,Laundry,12300.74
+2021-02-01,Housekeeping & Laundry,Linen Replacement,50707.21
+2021-02-01,Utilities,Electricity,28953.89
+2021-02-01,Utilities,Water,18062.37
+2021-02-01,Utilities,Gas,591.58
+2021-02-01,Sales & Marketing,OTA Commissions,21627.83
+2021-02-01,Sales & Marketing,Advertising,18739.62
+2021-02-01,Sales & Marketing,Promotions,19042.24
+2021-02-01,Maintenance & Repairs,Preventive Maintenance,6962.22
+2021-02-01,Maintenance & Repairs,Repairs,15242.12
+2021-02-01,Maintenance & Repairs,Equipment Maintenance,23740.63
+2021-02-01,Administrative & General,Management Salaries,2569.83
+2021-02-01,Administrative & General,IT Costs,1907.48
+2021-02-01,Administrative & General,Insurance,39578.09
+2021-03-01,Rooms Department,Front Office Labor,13393.88
+2021-03-01,Rooms Department,Guest Amenities,6653.59
+2021-03-01,Rooms Department,Cleaning Supplies,22784.33
+2021-03-01,Housekeeping & Laundry,Housekeeping Labor,14698.53
+2021-03-01,Housekeeping & Laundry,Laundry,622.49
+2021-03-01,Housekeeping & Laundry,Linen Replacement,20132.32
+2021-03-01,Utilities,Electricity,27649.91
+2021-03-01,Utilities,Water,6291.74
+2021-03-01,Utilities,Gas,11106.09
+2021-03-01,Sales & Marketing,OTA Commissions,667.51
+2021-03-01,Sales & Marketing,Advertising,47794.44
+2021-03-01,Sales & Marketing,Promotions,792.37
+2021-03-01,Maintenance & Repairs,Preventive Maintenance,142.98
+2021-03-01,Maintenance & Repairs,Repairs,42653.84
+2021-03-01,Maintenance & Repairs,Equipment Maintenance,15203.4
+2021-03-01,Administrative & General,Management Salaries,11761.56
+2021-03-01,Administrative & General,IT Costs,15422.19
+2021-03-01,Administrative & General,Insurance,28366.69
+2021-04-01,Rooms Department,Front Office Labor,7508.13
+2021-04-01,Rooms Department,Guest Amenities,23182.1
+2021-04-01,Rooms Department,Cleaning Supplies,91.22
+2021-04-01,Housekeeping & Laundry,Housekeeping Labor,229.38
+2021-04-01,Housekeeping & Laundry,Laundry,5325.21
+2021-04-01,Housekeeping & Laundry,Linen Replacement,28536.23
+2021-04-01,Utilities,Electricity,6796.26
+2021-04-01,Utilities,Water,8119.83
+2021-04-01,Utilities,Gas,14773.26
+2021-04-01,Sales & Marketing,OTA Commissions,13.24
+2021-04-01,Sales & Marketing,Advertising,13574.18
+2021-04-01,Sales & Marketing,Promotions,15965.32
+2021-04-01,Maintenance & Repairs,Preventive Maintenance,6819.36
+2021-04-01,Maintenance & Repairs,Repairs,8326.76
+2021-04-01,Maintenance & Repairs,Equipment Maintenance,16362.12
+2021-04-01,Administrative & General,Management Salaries,16644.21
+2021-04-01,Administrative & General,IT Costs,6009.41
+2021-04-01,Administrative & General,Insurance,7028.9
+2021-05-01,Rooms Department,Front Office Labor,1242.57
+2021-05-01,Rooms Department,Guest Amenities,24525.64
+2021-05-01,Rooms Department,Cleaning Supplies,3700.79
+2021-05-01,Housekeeping & Laundry,Housekeeping Labor,13086.88
+2021-05-01,Housekeeping & Laundry,Laundry,7859.52
+2021-05-01,Housekeeping & Laundry,Linen Replacement,1641.67
+2021-05-01,Utilities,Electricity,6399.43
+2021-05-01,Utilities,Water,127.93
+2021-05-01,Utilities,Gas,25802.55
+2021-05-01,Sales & Marketing,OTA Commissions,657.43
+2021-05-01,Sales & Marketing,Advertising,8062.9
+2021-05-01,Sales & Marketing,Promotions,12503.71
+2021-05-01,Maintenance & Repairs,Preventive Maintenance,7198.72
+2021-05-01,Maintenance & Repairs,Repairs,12275.76
+2021-05-01,Maintenance & Repairs,Equipment Maintenance,8041.03
+2021-05-01,Administrative & General,Management Salaries,5134.76
+2021-05-01,Administrative & General,IT Costs,8402.47
+2021-05-01,Administrative & General,Insurance,11117.25
+2021-06-01,Rooms Department,Front Office Labor,10437.1
+2021-06-01,Rooms Department,Guest Amenities,4139.53
+2021-06-01,Rooms Department,Cleaning Supplies,7918.79
+2021-06-01,Housekeeping & Laundry,Housekeeping Labor,3570.98
+2021-06-01,Housekeeping & Laundry,Laundry,4255.86
+2021-06-01,Housekeeping & Laundry,Linen Replacement,24334.05
+2021-06-01,Utilities,Electricity,1572.67
+2021-06-01,Utilities,Water,17188.96
+2021-06-01,Utilities,Gas,11062.35
+2021-06-01,Sales & Marketing,OTA Commissions,16485.5
+2021-06-01,Sales & Marketing,Advertising,17047.96
+2021-06-01,Sales & Marketing,Promotions,187.88
+2021-06-01,Maintenance & Repairs,Preventive Maintenance,12037.3
+2021-06-01,Maintenance & Repairs,Repairs,8563.61
+2021-06-01,Maintenance & Repairs,Equipment Maintenance,6641.34
+2021-06-01,Administrative & General,Management Salaries,2441.88
+2021-06-01,Administrative & General,IT Costs,4722.86
+2021-06-01,Administrative & General,Insurance,28171.5
+2021-07-01,Rooms Department,Front Office Labor,5161.57
+2021-07-01,Rooms Department,Guest Amenities,36565.18
+2021-07-01,Rooms Department,Cleaning Supplies,5089.87
+2021-07-01,Housekeeping & Laundry,Housekeeping Labor,24072.41
+2021-07-01,Housekeeping & Laundry,Laundry,9368.06
+2021-07-01,Housekeeping & Laundry,Linen Replacement,37312.77
+2021-07-01,Utilities,Electricity,7857.91
+2021-07-01,Utilities,Water,51993.66
+2021-07-01,Utilities,Gas,2662.15
+2021-07-01,Sales & Marketing,OTA Commissions,12978.16
+2021-07-01,Sales & Marketing,Advertising,8755.4
+2021-07-01,Sales & Marketing,Promotions,34886.41
+2021-07-01,Maintenance & Repairs,Preventive Maintenance,12630.47
+2021-07-01,Maintenance & Repairs,Repairs,18734.92
+2021-07-01,Maintenance & Repairs,Equipment Maintenance,12386.73
+2021-07-01,Administrative & General,Management Salaries,12827.8
+2021-07-01,Administrative & General,IT Costs,40007.64
+2021-07-01,Administrative & General,Insurance,2368.91
+2021-08-01,Rooms Department,Front Office Labor,16254.58
+2021-08-01,Rooms Department,Guest Amenities,22295.15
+2021-08-01,Rooms Department,Cleaning Supplies,4697.47
+2021-08-01,Housekeeping & Laundry,Housekeeping Labor,6371.82
+2021-08-01,Housekeeping & Laundry,Laundry,10270.1
+2021-08-01,Housekeeping & Laundry,Linen Replacement,38665.06
+2021-08-01,Utilities,Electricity,46498.66
+2021-08-01,Utilities,Water,11366.39
+2021-08-01,Utilities,Gas,6498.03
+2021-08-01,Sales & Marketing,OTA Commissions,22993.67
+2021-08-01,Sales & Marketing,Advertising,26916.86
+2021-08-01,Sales & Marketing,Promotions,10470.34
+2021-08-01,Maintenance & Repairs,Preventive Maintenance,321.09
+2021-08-01,Maintenance & Repairs,Repairs,57151.72
+2021-08-01,Maintenance & Repairs,Equipment Maintenance,3524.03
+2021-08-01,Administrative & General,Management Salaries,55743.01
+2021-08-01,Administrative & General,IT Costs,3607.2
+2021-08-01,Administrative & General,Insurance,1700.83
+2021-09-01,Rooms Department,Front Office Labor,3831.81
+2021-09-01,Rooms Department,Guest Amenities,1341.47
+2021-09-01,Rooms Department,Cleaning Supplies,16535.51
+2021-09-01,Housekeeping & Laundry,Housekeeping Labor,9200.46
+2021-09-01,Housekeeping & Laundry,Laundry,11097.53
+2021-09-01,Housekeeping & Laundry,Linen Replacement,1504.06
+2021-09-01,Utilities,Electricity,1530.72
+2021-09-01,Utilities,Water,17646.59
+2021-09-01,Utilities,Gas,6443.87
+2021-09-01,Sales & Marketing,OTA Commissions,2165.64
+2021-09-01,Sales & Marketing,Advertising,22135.68
+2021-09-01,Sales & Marketing,Promotions,152.06
+2021-09-01,Maintenance & Repairs,Preventive Maintenance,5867.76
+2021-09-01,Maintenance & Repairs,Repairs,4767.8
+2021-09-01,Maintenance & Repairs,Equipment Maintenance,11942.6
+2021-09-01,Administrative & General,Management Salaries,6449.16
+2021-09-01,Administrative & General,IT Costs,396.52
+2021-09-01,Administrative & General,Insurance,15308.68
+2021-10-01,Rooms Department,Front Office Labor,4654.72
+2021-10-01,Rooms Department,Guest Amenities,10154.67
+2021-10-01,Rooms Department,Cleaning Supplies,17115.91
+2021-10-01,Housekeeping & Laundry,Housekeeping Labor,8754.9
+2021-10-01,Housekeeping & Laundry,Laundry,23548.69
+2021-10-01,Housekeeping & Laundry,Linen Replacement,12332.39
+2021-10-01,Utilities,Electricity,7046.03
+2021-10-01,Utilities,Water,35278.0
+2021-10-01,Utilities,Gas,6029.41
+2021-10-01,Sales & Marketing,OTA Commissions,20104.6
+2021-10-01,Sales & Marketing,Advertising,2921.66
+2021-10-01,Sales & Marketing,Promotions,5047.7
+2021-10-01,Maintenance & Repairs,Preventive Maintenance,11705.17
+2021-10-01,Maintenance & Repairs,Repairs,11640.81
+2021-10-01,Maintenance & Repairs,Equipment Maintenance,14811.31
+2021-10-01,Administrative & General,Management Salaries,6843.16
+2021-10-01,Administrative & General,IT Costs,12503.0
+2021-10-01,Administrative & General,Insurance,18993.36
+2021-11-01,Rooms Department,Front Office Labor,606.35
+2021-11-01,Rooms Department,Guest Amenities,12854.48
+2021-11-01,Rooms Department,Cleaning Supplies,31304.91
+2021-11-01,Housekeeping & Laundry,Housekeeping Labor,7554.54
+2021-11-01,Housekeeping & Laundry,Laundry,29782.71
+2021-11-01,Housekeeping & Laundry,Linen Replacement,21954.6
+2021-11-01,Utilities,Electricity,39161.68
+2021-11-01,Utilities,Water,2397.4
+2021-11-01,Utilities,Gas,556.99
+2021-11-01,Sales & Marketing,OTA Commissions,3736.09
+2021-11-01,Sales & Marketing,Advertising,36539.21
+2021-11-01,Sales & Marketing,Promotions,5036.36
+2021-11-01,Maintenance & Repairs,Preventive Maintenance,6071.15
+2021-11-01,Maintenance & Repairs,Repairs,35641.1
+2021-11-01,Maintenance & Repairs,Equipment Maintenance,25413.98
+2021-11-01,Administrative & General,Management Salaries,27376.73
+2021-11-01,Administrative & General,IT Costs,6276.21
+2021-11-01,Administrative & General,Insurance,20841.39
+2021-12-01,Rooms Department,Front Office Labor,29121.82
+2021-12-01,Rooms Department,Guest Amenities,7083.08
+2021-12-01,Rooms Department,Cleaning Supplies,11735.03
+2021-12-01,Housekeeping & Laundry,Housekeeping Labor,4306.4
+2021-12-01,Housekeeping & Laundry,Laundry,41918.22
+2021-12-01,Housekeeping & Laundry,Linen Replacement,15878.77
+2021-12-01,Utilities,Electricity,28785.05
+2021-12-01,Utilities,Water,17048.57
+2021-12-01,Utilities,Gas,25631.7
+2021-12-01,Sales & Marketing,OTA Commissions,58018.18
+2021-12-01,Sales & Marketing,Advertising,515.06
+2021-12-01,Sales & Marketing,Promotions,9660.88
+2021-12-01,Maintenance & Repairs,Preventive Maintenance,6103.93
+2021-12-01,Maintenance & Repairs,Repairs,48129.62
+2021-12-01,Maintenance & Repairs,Equipment Maintenance,3184.05
+2021-12-01,Administrative & General,Management Salaries,31768.11
+2021-12-01,Administrative & General,IT Costs,21871.84
+2021-12-01,Administrative & General,Insurance,18665.76
+2022-01-01,Rooms Department,Front Office Labor,7819.72
+2022-01-01,Rooms Department,Guest Amenities,2534.57
+2022-01-01,Rooms Department,Cleaning Supplies,23245.09
+2022-01-01,Housekeeping & Laundry,Housekeeping Labor,3990.58
+2022-01-01,Housekeeping & Laundry,Laundry,11161.75
+2022-01-01,Housekeeping & Laundry,Linen Replacement,36766.42
+2022-01-01,Utilities,Electricity,29130.88
+2022-01-01,Utilities,Water,12148.06
+2022-01-01,Utilities,Gas,14204.16
+2022-01-01,Sales & Marketing,OTA Commissions,10859.87
+2022-01-01,Sales & Marketing,Advertising,3369.02
+2022-01-01,Sales & Marketing,Promotions,23106.35
+2022-01-01,Maintenance & Repairs,Preventive Maintenance,4016.11
+2022-01-01,Maintenance & Repairs,Repairs,3537.19
+2022-01-01,Maintenance & Repairs,Equipment Maintenance,44379.74
+2022-01-01,Administrative & General,Management Salaries,15033.32
+2022-01-01,Administrative & General,IT Costs,25352.78
+2022-01-01,Administrative & General,Insurance,11513.14
+2022-02-01,Rooms Department,Front Office Labor,7669.7
+2022-02-01,Rooms Department,Guest Amenities,28499.68
+2022-02-01,Rooms Department,Cleaning Supplies,5672.73
+2022-02-01,Housekeeping & Laundry,Housekeeping Labor,11384.52
+2022-02-01,Housekeeping & Laundry,Laundry,5253.47
+2022-02-01,Housekeeping & Laundry,Linen Replacement,44372.54
+2022-02-01,Utilities,Electricity,21730.63
+2022-02-01,Utilities,Water,4331.7
+2022-02-01,Utilities,Gas,15894.22
+2022-02-01,Sales & Marketing,OTA Commissions,23429.37
+2022-02-01,Sales & Marketing,Advertising,24520.87
+2022-02-01,Sales & Marketing,Promotions,2842.7
+2022-02-01,Maintenance & Repairs,Preventive Maintenance,3391.09
+2022-02-01,Maintenance & Repairs,Repairs,9486.9
+2022-02-01,Maintenance & Repairs,Equipment Maintenance,54979.69
+2022-02-01,Administrative & General,Management Salaries,24228.0
+2022-02-01,Administrative & General,IT Costs,29071.77
+2022-02-01,Administrative & General,Insurance,7531.92
+2022-03-01,Rooms Department,Front Office Labor,23113.86
+2022-03-01,Rooms Department,Guest Amenities,552.75
+2022-03-01,Rooms Department,Cleaning Supplies,14508.93
+2022-03-01,Housekeeping & Laundry,Housekeeping Labor,18503.36
+2022-03-01,Housekeeping & Laundry,Laundry,2047.1
+2022-03-01,Housekeeping & Laundry,Linen Replacement,15102.96
+2022-03-01,Utilities,Electricity,9530.57
+2022-03-01,Utilities,Water,7013.2
+2022-03-01,Utilities,Gas,15282.72
+2022-03-01,Sales & Marketing,OTA Commissions,12701.82
+2022-03-01,Sales & Marketing,Advertising,18191.46
+2022-03-01,Sales & Marketing,Promotions,7467.62
+2022-03-01,Maintenance & Repairs,Preventive Maintenance,5574.06
+2022-03-01,Maintenance & Repairs,Repairs,7373.16
+2022-03-01,Maintenance & Repairs,Equipment Maintenance,28940.86
+2022-03-01,Administrative & General,Management Salaries,10532.2
+2022-03-01,Administrative & General,IT Costs,10081.5
+2022-03-01,Administrative & General,Insurance,11642.39
+2022-04-01,Rooms Department,Front Office Labor,19868.05
+2022-04-01,Rooms Department,Guest Amenities,25930.7
+2022-04-01,Rooms Department,Cleaning Supplies,650.52
+2022-04-01,Housekeeping & Laundry,Housekeeping Labor,3221.68
+2022-04-01,Housekeeping & Laundry,Laundry,26716.91
+2022-04-01,Housekeeping & Laundry,Linen Replacement,19668.17
+2022-04-01,Utilities,Electricity,29382.42
+2022-04-01,Utilities,Water,9361.23
+2022-04-01,Utilities,Gas,3808.19
+2022-04-01,Sales & Marketing,OTA Commissions,5217.79
+2022-04-01,Sales & Marketing,Advertising,14774.56
+2022-04-01,Sales & Marketing,Promotions,18759.83
+2022-04-01,Maintenance & Repairs,Preventive Maintenance,8585.64
+2022-04-01,Maintenance & Repairs,Repairs,14034.68
+2022-04-01,Maintenance & Repairs,Equipment Maintenance,16439.09
+2022-04-01,Administrative & General,Management Salaries,21776.11
+2022-04-01,Administrative & General,IT Costs,14108.42
+2022-04-01,Administrative & General,Insurance,622.74
+2022-05-01,Rooms Department,Front Office Labor,222.6
+2022-05-01,Rooms Department,Guest Amenities,23713.34
+2022-05-01,Rooms Department,Cleaning Supplies,11285.07
+2022-05-01,Housekeeping & Laundry,Housekeeping Labor,12897.62
+2022-05-01,Housekeeping & Laundry,Laundry,4801.73
+2022-05-01,Housekeeping & Laundry,Linen Replacement,17694.25
+2022-05-01,Utilities,Electricity,3023.59
+2022-05-01,Utilities,Water,22046.09
+2022-05-01,Utilities,Gas,15926.07
+2022-05-01,Sales & Marketing,OTA Commissions,1628.68
+2022-05-01,Sales & Marketing,Advertising,4998.58
+2022-05-01,Sales & Marketing,Promotions,17022.9
+2022-05-01,Maintenance & Repairs,Preventive Maintenance,2341.26
+2022-05-01,Maintenance & Repairs,Repairs,23461.04
+2022-05-01,Maintenance & Repairs,Equipment Maintenance,7931.01
+2022-05-01,Administrative & General,Management Salaries,4532.78
+2022-05-01,Administrative & General,IT Costs,14089.09
+2022-05-01,Administrative & General,Insurance,5052.17
+2022-06-01,Rooms Department,Front Office Labor,27272.52
+2022-06-01,Rooms Department,Guest Amenities,1594.39
+2022-06-01,Rooms Department,Cleaning Supplies,2402.43
+2022-06-01,Housekeeping & Laundry,Housekeeping Labor,4312.57
+2022-06-01,Housekeeping & Laundry,Laundry,3684.07
+2022-06-01,Housekeeping & Laundry,Linen Replacement,26506.1
+2022-06-01,Utilities,Electricity,9788.09
+2022-06-01,Utilities,Water,11872.65
+2022-06-01,Utilities,Gas,9838.26
+2022-06-01,Sales & Marketing,OTA Commissions,21659.47
+2022-06-01,Sales & Marketing,Advertising,8435.52
+2022-06-01,Sales & Marketing,Promotions,6062.63
+2022-06-01,Maintenance & Repairs,Preventive Maintenance,18766.7
+2022-06-01,Maintenance & Repairs,Repairs,3729.02
+2022-06-01,Maintenance & Repairs,Equipment Maintenance,6579.36
+2022-06-01,Administrative & General,Management Salaries,6654.81
+2022-06-01,Administrative & General,IT Costs,4082.89
+2022-06-01,Administrative & General,Insurance,28721.83
+2022-07-01,Rooms Department,Front Office Labor,7760.1
+2022-07-01,Rooms Department,Guest Amenities,24663.4
+2022-07-01,Rooms Department,Cleaning Supplies,19086.49
+2022-07-01,Housekeeping & Laundry,Housekeeping Labor,23752.55
+2022-07-01,Housekeeping & Laundry,Laundry,1001.51
+2022-07-01,Housekeeping & Laundry,Linen Replacement,27327.46
+2022-07-01,Utilities,Electricity,20095.45
+2022-07-01,Utilities,Water,26121.32
+2022-07-01,Utilities,Gas,6187.62
+2022-07-01,Sales & Marketing,OTA Commissions,1149.05
+2022-07-01,Sales & Marketing,Advertising,2648.05
+2022-07-01,Sales & Marketing,Promotions,46700.11
+2022-07-01,Maintenance & Repairs,Preventive Maintenance,8969.89
+2022-07-01,Maintenance & Repairs,Repairs,1259.25
+2022-07-01,Maintenance & Repairs,Equipment Maintenance,25465.81
+2022-07-01,Administrative & General,Management Salaries,25735.08
+2022-07-01,Administrative & General,IT Costs,4478.77
+2022-07-01,Administrative & General,Insurance,9863.16
+2022-08-01,Rooms Department,Front Office Labor,43416.31
+2022-08-01,Rooms Department,Guest Amenities,922.43
+2022-08-01,Rooms Department,Cleaning Supplies,727.09
+2022-08-01,Housekeeping & Laundry,Housekeeping Labor,42539.96
+2022-08-01,Housekeeping & Laundry,Laundry,7406.4
+2022-08-01,Housekeeping & Laundry,Linen Replacement,7646.69
+2022-08-01,Utilities,Electricity,3228.57
+2022-08-01,Utilities,Water,19909.76
+2022-08-01,Utilities,Gas,38129.63
+2022-08-01,Sales & Marketing,OTA Commissions,9327.34
+2022-08-01,Sales & Marketing,Advertising,24070.74
+2022-08-01,Sales & Marketing,Promotions,21293.71
+2022-08-01,Maintenance & Repairs,Preventive Maintenance,3640.75
+2022-08-01,Maintenance & Repairs,Repairs,47879.28
+2022-08-01,Maintenance & Repairs,Equipment Maintenance,14210.87
+2022-08-01,Administrative & General,Management Salaries,32263.46
+2022-08-01,Administrative & General,IT Costs,15128.13
+2022-08-01,Administrative & General,Insurance,19743.15
+2022-09-01,Rooms Department,Front Office Labor,9222.73
+2022-09-01,Rooms Department,Guest Amenities,11403.09
+2022-09-01,Rooms Department,Cleaning Supplies,2760.17
+2022-09-01,Housekeeping & Laundry,Housekeeping Labor,35730.38
+2022-09-01,Housekeeping & Laundry,Laundry,1473.73
+2022-09-01,Housekeeping & Laundry,Linen Replacement,269.36
+2022-09-01,Utilities,Electricity,23038.22
+2022-09-01,Utilities,Water,4391.45
+2022-09-01,Utilities,Gas,4072.53
+2022-09-01,Sales & Marketing,OTA Commissions,13229.09
+2022-09-01,Sales & Marketing,Advertising,15375.09
+2022-09-01,Sales & Marketing,Promotions,5061.36
+2022-09-01,Maintenance & Repairs,Preventive Maintenance,28473.98
+2022-09-01,Maintenance & Repairs,Repairs,1763.43
+2022-09-01,Maintenance & Repairs,Equipment Maintenance,3014.4
+2022-09-01,Administrative & General,Management Salaries,3370.6
+2022-09-01,Administrative & General,IT Costs,5077.69
+2022-09-01,Administrative & General,Insurance,30753.64
+2022-10-01,Rooms Department,Front Office Labor,7974.3
+2022-10-01,Rooms Department,Guest Amenities,9949.5
+2022-10-01,Rooms Department,Cleaning Supplies,13103.77
+2022-10-01,Housekeeping & Laundry,Housekeeping Labor,13390.44
+2022-10-01,Housekeeping & Laundry,Laundry,1566.31
+2022-10-01,Housekeeping & Laundry,Linen Replacement,17486.32
+2022-10-01,Utilities,Electricity,29843.66
+2022-10-01,Utilities,Water,1268.25
+2022-10-01,Utilities,Gas,8297.43
+2022-10-01,Sales & Marketing,OTA Commissions,16582.76
+2022-10-01,Sales & Marketing,Advertising,298.03
+2022-10-01,Sales & Marketing,Promotions,10490.39
+2022-10-01,Maintenance & Repairs,Preventive Maintenance,8009.91
+2022-10-01,Maintenance & Repairs,Repairs,7415.32
+2022-10-01,Maintenance & Repairs,Equipment Maintenance,22172.28
+2022-10-01,Administrative & General,Management Salaries,9160.61
+2022-10-01,Administrative & General,IT Costs,16592.8
+2022-10-01,Administrative & General,Insurance,11183.08
+2022-11-01,Rooms Department,Front Office Labor,4499.18
+2022-11-01,Rooms Department,Guest Amenities,15436.05
+2022-11-01,Rooms Department,Cleaning Supplies,29500.66
+2022-11-01,Housekeeping & Laundry,Housekeeping Labor,31038.11
+2022-11-01,Housekeeping & Laundry,Laundry,6983.09
+2022-11-01,Housekeeping & Laundry,Linen Replacement,15409.94
+2022-11-01,Utilities,Electricity,11784.52
+2022-11-01,Utilities,Water,10729.44
+2022-11-01,Utilities,Gas,23340.37
+2022-11-01,Sales & Marketing,OTA Commissions,9730.87
+2022-11-01,Sales & Marketing,Advertising,5673.99
+2022-11-01,Sales & Marketing,Promotions,42645.53
+2022-11-01,Maintenance & Repairs,Preventive Maintenance,15364.79
+2022-11-01,Maintenance & Repairs,Repairs,25337.34
+2022-11-01,Maintenance & Repairs,Equipment Maintenance,3114.4
+2022-11-01,Administrative & General,Management Salaries,7874.99
+2022-11-01,Administrative & General,IT Costs,18948.89
+2022-11-01,Administrative & General,Insurance,31503.77
+2022-12-01,Rooms Department,Front Office Labor,2944.96
+2022-12-01,Rooms Department,Guest Amenities,25399.01
+2022-12-01,Rooms Department,Cleaning Supplies,31147.58
+2022-12-01,Housekeeping & Laundry,Housekeeping Labor,8259.26
+2022-12-01,Housekeeping & Laundry,Laundry,12054.79
+2022-12-01,Housekeeping & Laundry,Linen Replacement,26659.0
+2022-12-01,Utilities,Electricity,22609.81
+2022-12-01,Utilities,Water,13019.24
+2022-12-01,Utilities,Gas,899.88
+2022-12-01,Sales & Marketing,OTA Commissions,43553.39
+2022-12-01,Sales & Marketing,Advertising,4385.59
+2022-12-01,Sales & Marketing,Promotions,6350.57
+2022-12-01,Maintenance & Repairs,Preventive Maintenance,3011.03
+2022-12-01,Maintenance & Repairs,Repairs,48120.57
+2022-12-01,Maintenance & Repairs,Equipment Maintenance,3407.06
+2022-12-01,Administrative & General,Management Salaries,6023.44
+2022-12-01,Administrative & General,IT Costs,28238.43
+2022-12-01,Administrative & General,Insurance,25535.12
+2023-01-01,Rooms Department,Front Office Labor,58221.08
+2023-01-01,Rooms Department,Guest Amenities,6069.26
+2023-01-01,Rooms Department,Cleaning Supplies,942.4
+2023-01-01,Housekeeping & Laundry,Housekeeping Labor,26222.47
+2023-01-01,Housekeeping & Laundry,Laundry,21494.18
+2023-01-01,Housekeeping & Laundry,Linen Replacement,4186.28
+2023-01-01,Utilities,Electricity,18038.67
+2023-01-01,Utilities,Water,21717.49
+2023-01-01,Utilities,Gas,4600.24
+2023-01-01,Sales & Marketing,OTA Commissions,36808.36
+2023-01-01,Sales & Marketing,Advertising,9685.5
+2023-01-01,Sales & Marketing,Promotions,1343.93
+2023-01-01,Maintenance & Repairs,Preventive Maintenance,24396.89
+2023-01-01,Maintenance & Repairs,Repairs,24410.79
+2023-01-01,Maintenance & Repairs,Equipment Maintenance,9258.28
+2023-01-01,Administrative & General,Management Salaries,10337.62
+2023-01-01,Administrative & General,IT Costs,12317.76
+2023-01-01,Administrative & General,Insurance,19225.98
+2023-02-01,Rooms Department,Front Office Labor,8627.31
+2023-02-01,Rooms Department,Guest Amenities,4757.78
+2023-02-01,Rooms Department,Cleaning Supplies,33109.4
+2023-02-01,Housekeeping & Laundry,Housekeeping Labor,19515.16
+2023-02-01,Housekeeping & Laundry,Laundry,1633.29
+2023-02-01,Housekeeping & Laundry,Linen Replacement,18687.68
+2023-02-01,Utilities,Electricity,14583.47
+2023-02-01,Utilities,Water,13154.87
+2023-02-01,Utilities,Gas,18341.03
+2023-02-01,Sales & Marketing,OTA Commissions,5538.84
+2023-02-01,Sales & Marketing,Advertising,11016.83
+2023-02-01,Sales & Marketing,Promotions,18551.33
+2023-02-01,Maintenance & Repairs,Preventive Maintenance,10435.32
+2023-02-01,Maintenance & Repairs,Repairs,30098.34
+2023-02-01,Maintenance & Repairs,Equipment Maintenance,1628.7
+2023-02-01,Administrative & General,Management Salaries,1087.7
+2023-02-01,Administrative & General,IT Costs,30790.15
+2023-02-01,Administrative & General,Insurance,21948.53
+2023-03-01,Rooms Department,Front Office Labor,13531.38
+2023-03-01,Rooms Department,Guest Amenities,7490.62
+2023-03-01,Rooms Department,Cleaning Supplies,10991.89
+2023-03-01,Housekeeping & Laundry,Housekeeping Labor,10126.5
+2023-03-01,Housekeeping & Laundry,Laundry,31623.13
+2023-03-01,Housekeeping & Laundry,Linen Replacement,9934.34
+2023-03-01,Utilities,Electricity,46865.05
+2023-03-01,Utilities,Water,76.29
+2023-03-01,Utilities,Gas,8477.53
+2023-03-01,Sales & Marketing,OTA Commissions,24434.48
+2023-03-01,Sales & Marketing,Advertising,12489.28
+2023-03-01,Sales & Marketing,Promotions,1206.22
+2023-03-01,Maintenance & Repairs,Preventive Maintenance,11264.89
+2023-03-01,Maintenance & Repairs,Repairs,19477.63
+2023-03-01,Maintenance & Repairs,Equipment Maintenance,2071.23
+2023-03-01,Administrative & General,Management Salaries,29440.35
+2023-03-01,Administrative & General,IT Costs,6379.79
+2023-03-01,Administrative & General,Insurance,1353.17
+2023-04-01,Rooms Department,Front Office Labor,19705.0
+2023-04-01,Rooms Department,Guest Amenities,331.04
+2023-04-01,Rooms Department,Cleaning Supplies,13136.88
+2023-04-01,Housekeeping & Laundry,Housekeeping Labor,11031.89
+2023-04-01,Housekeeping & Laundry,Laundry,10044.89
+2023-04-01,Housekeeping & Laundry,Linen Replacement,30924.93
+2023-04-01,Utilities,Electricity,14024.22
+2023-04-01,Utilities,Water,12234.56
+2023-04-01,Utilities,Gas,3836.76
+2023-04-01,Sales & Marketing,OTA Commissions,5694.95
+2023-04-01,Sales & Marketing,Advertising,24118.18
+2023-04-01,Sales & Marketing,Promotions,18625.44
+2023-04-01,Maintenance & Repairs,Preventive Maintenance,34216.14
+2023-04-01,Maintenance & Repairs,Repairs,3782.56
+2023-04-01,Maintenance & Repairs,Equipment Maintenance,6136.29
+2023-04-01,Administrative & General,Management Salaries,9984.78
+2023-04-01,Administrative & General,IT Costs,1518.15
+2023-04-01,Administrative & General,Insurance,37541.01
+2023-05-01,Rooms Department,Front Office Labor,4314.76
+2023-05-01,Rooms Department,Guest Amenities,34790.94
+2023-05-01,Rooms Department,Cleaning Supplies,10150.13
+2023-05-01,Housekeeping & Laundry,Housekeeping Labor,15953.82
+2023-05-01,Housekeeping & Laundry,Laundry,30860.35
+2023-05-01,Housekeeping & Laundry,Linen Replacement,433.61
+2023-05-01,Utilities,Electricity,1724.92
+2023-05-01,Utilities,Water,33649.66
+2023-05-01,Utilities,Gas,9583.73
+2023-05-01,Sales & Marketing,OTA Commissions,23368.08
+2023-05-01,Sales & Marketing,Advertising,8035.13
+2023-05-01,Sales & Marketing,Promotions,1576.88
+2023-05-01,Maintenance & Repairs,Preventive Maintenance,11634.69
+2023-05-01,Maintenance & Repairs,Repairs,523.94
+2023-05-01,Maintenance & Repairs,Equipment Maintenance,21456.66
+2023-05-01,Administrative & General,Management Salaries,38647.29
+2023-05-01,Administrative & General,IT Costs,836.63
+2023-05-01,Administrative & General,Insurance,3083.34
+2023-06-01,Rooms Department,Front Office Labor,11974.02
+2023-06-01,Rooms Department,Guest Amenities,2249.9
+2023-06-01,Rooms Department,Cleaning Supplies,16486.75
+2023-06-01,Housekeeping & Laundry,Housekeeping Labor,6350.82
+2023-06-01,Housekeeping & Laundry,Laundry,22760.18
+2023-06-01,Housekeeping & Laundry,Linen Replacement,14524.19
+2023-06-01,Utilities,Electricity,4032.71
+2023-06-01,Utilities,Water,7915.82
+2023-06-01,Utilities,Gas,22182.7
+2023-06-01,Sales & Marketing,OTA Commissions,8776.64
+2023-06-01,Sales & Marketing,Advertising,20335.82
+2023-06-01,Sales & Marketing,Promotions,490.5
+2023-06-01,Maintenance & Repairs,Preventive Maintenance,10971.03
+2023-06-01,Maintenance & Repairs,Repairs,5852.17
+2023-06-01,Maintenance & Repairs,Equipment Maintenance,28163.03
+2023-06-01,Administrative & General,Management Salaries,3480.42
+2023-06-01,Administrative & General,IT Costs,1126.25
+2023-06-01,Administrative & General,Insurance,22222.1
+2023-07-01,Rooms Department,Front Office Labor,34279.92
+2023-07-01,Rooms Department,Guest Amenities,13320.76
+2023-07-01,Rooms Department,Cleaning Supplies,18443.63
+2023-07-01,Housekeeping & Laundry,Housekeeping Labor,6712.1
+2023-07-01,Housekeeping & Laundry,Laundry,64103.36
+2023-07-01,Housekeeping & Laundry,Linen Replacement,2629.89
+2023-07-01,Utilities,Electricity,28232.48
+2023-07-01,Utilities,Water,17088.58
+2023-07-01,Utilities,Gas,9986.35
+2023-07-01,Sales & Marketing,OTA Commissions,3827.46
+2023-07-01,Sales & Marketing,Advertising,36943.98
+2023-07-01,Sales & Marketing,Promotions,10850.22
+2023-07-01,Maintenance & Repairs,Preventive Maintenance,20563.91
+2023-07-01,Maintenance & Repairs,Repairs,9724.86
+2023-07-01,Maintenance & Repairs,Equipment Maintenance,26337.81
+2023-07-01,Administrative & General,Management Salaries,41687.23
+2023-07-01,Administrative & General,IT Costs,13455.23
+2023-07-01,Administrative & General,Insurance,12892.34
+2023-08-01,Rooms Department,Front Office Labor,8559.12
+2023-08-01,Rooms Department,Guest Amenities,34488.53
+2023-08-01,Rooms Department,Cleaning Supplies,1940.64
+2023-08-01,Housekeeping & Laundry,Housekeeping Labor,5197.54
+2023-08-01,Housekeeping & Laundry,Laundry,15467.16
+2023-08-01,Housekeeping & Laundry,Linen Replacement,24248.83
+2023-08-01,Utilities,Electricity,6071.96
+2023-08-01,Utilities,Water,27083.66
+2023-08-01,Utilities,Gas,1893.08
+2023-08-01,Sales & Marketing,OTA Commissions,29079.3
+2023-08-01,Sales & Marketing,Advertising,198.59
+2023-08-01,Sales & Marketing,Promotions,6494.32
+2023-08-01,Maintenance & Repairs,Preventive Maintenance,11137.18
+2023-08-01,Maintenance & Repairs,Repairs,16830.21
+2023-08-01,Maintenance & Repairs,Equipment Maintenance,13824.82
+2023-08-01,Administrative & General,Management Salaries,8486.06
+2023-08-01,Administrative & General,IT Costs,6609.33
+2023-08-01,Administrative & General,Insurance,32935.28
+2023-09-01,Rooms Department,Front Office Labor,7805.47
+2023-09-01,Rooms Department,Guest Amenities,9527.84
+2023-09-01,Rooms Department,Cleaning Supplies,5778.11
+2023-09-01,Housekeeping & Laundry,Housekeeping Labor,460.43
+2023-09-01,Housekeeping & Laundry,Laundry,27435.06
+2023-09-01,Housekeeping & Laundry,Linen Replacement,1261.83
+2023-09-01,Utilities,Electricity,11799.32
+2023-09-01,Utilities,Water,4751.42
+2023-09-01,Utilities,Gas,11047.31
+2023-09-01,Sales & Marketing,OTA Commissions,22512.01
+2023-09-01,Sales & Marketing,Advertising,7035.95
+2023-09-01,Sales & Marketing,Promotions,3409.46
+2023-09-01,Maintenance & Repairs,Preventive Maintenance,15824.78
+2023-09-01,Maintenance & Repairs,Repairs,6876.75
+2023-09-01,Maintenance & Repairs,Equipment Maintenance,4439.66
+2023-09-01,Administrative & General,Management Salaries,303.19
+2023-09-01,Administrative & General,IT Costs,4070.12
+2023-09-01,Administrative & General,Insurance,19397.97
+2023-10-01,Rooms Department,Front Office Labor,3596.22
+2023-10-01,Rooms Department,Guest Amenities,24537.6
+2023-10-01,Rooms Department,Cleaning Supplies,12323.16
+2023-10-01,Housekeeping & Laundry,Housekeeping Labor,24936.88
+2023-10-01,Housekeeping & Laundry,Laundry,11394.77
+2023-10-01,Housekeeping & Laundry,Linen Replacement,5299.61
+2023-10-01,Utilities,Electricity,19670.63
+2023-10-01,Utilities,Water,7928.43
+2023-10-01,Utilities,Gas,13344.83
+2023-10-01,Sales & Marketing,OTA Commissions,18167.4
+2023-10-01,Sales & Marketing,Advertising,567.33
+2023-10-01,Sales & Marketing,Promotions,15452.75
+2023-10-01,Maintenance & Repairs,Preventive Maintenance,22097.01
+2023-10-01,Maintenance & Repairs,Repairs,8908.13
+2023-10-01,Maintenance & Repairs,Equipment Maintenance,9923.35
+2023-10-01,Administrative & General,Management Salaries,21957.64
+2023-10-01,Administrative & General,IT Costs,8427.97
+2023-10-01,Administrative & General,Insurance,4027.33
+2023-11-01,Rooms Department,Front Office Labor,6874.54
+2023-11-01,Rooms Department,Guest Amenities,32924.66
+2023-11-01,Rooms Department,Cleaning Supplies,668.86
+2023-11-01,Housekeeping & Laundry,Housekeeping Labor,7427.27
+2023-11-01,Housekeeping & Laundry,Laundry,42222.15
+2023-11-01,Housekeeping & Laundry,Linen Replacement,15665.95
+2023-11-01,Utilities,Electricity,19856.59
+2023-11-01,Utilities,Water,4967.42
+2023-11-01,Utilities,Gas,12620.3
+2023-11-01,Sales & Marketing,OTA Commissions,35244.56
+2023-11-01,Sales & Marketing,Advertising,291.7
+2023-11-01,Sales & Marketing,Promotions,7495.84
+2023-11-01,Maintenance & Repairs,Preventive Maintenance,16918.22
+2023-11-01,Maintenance & Repairs,Repairs,24989.84
+2023-11-01,Maintenance & Repairs,Equipment Maintenance,21619.49
+2023-11-01,Administrative & General,Management Salaries,4836.18
+2023-11-01,Administrative & General,IT Costs,33223.89
+2023-11-01,Administrative & General,Insurance,8252.93
+2023-12-01,Rooms Department,Front Office Labor,18002.61
+2023-12-01,Rooms Department,Guest Amenities,1777.59
+2023-12-01,Rooms Department,Cleaning Supplies,21186.37
+2023-12-01,Housekeeping & Laundry,Housekeeping Labor,12795.77
+2023-12-01,Housekeeping & Laundry,Laundry,10440.25
+2023-12-01,Housekeeping & Laundry,Linen Replacement,25588.62
+2023-12-01,Utilities,Electricity,27394.85
+2023-12-01,Utilities,Water,17789.71
+2023-12-01,Utilities,Gas,4808.22
+2023-12-01,Sales & Marketing,OTA Commissions,1141.77
+2023-12-01,Sales & Marketing,Advertising,44392.56
+2023-12-01,Sales & Marketing,Promotions,7454.41
+2023-12-01,Maintenance & Repairs,Preventive Maintenance,25735.67
+2023-12-01,Maintenance & Repairs,Repairs,32606.14
+2023-12-01,Maintenance & Repairs,Equipment Maintenance,9725.11
+2023-12-01,Administrative & General,Management Salaries,31671.84
+2023-12-01,Administrative & General,IT Costs,7366.63
+2023-12-01,Administrative & General,Insurance,2861.73
+2024-01-01,Rooms Department,Front Office Labor,20382.37
+2024-01-01,Rooms Department,Guest Amenities,49707.31
+2024-01-01,Rooms Department,Cleaning Supplies,5718.44
+2024-01-01,Housekeeping & Laundry,Housekeeping Labor,10434.86
+2024-01-01,Housekeeping & Laundry,Laundry,33989.0
+2024-01-01,Housekeeping & Laundry,Linen Replacement,10740.35
+2024-01-01,Utilities,Electricity,28355.65
+2024-01-01,Utilities,Water,4632.32
+2024-01-01,Utilities,Gas,20007.97
+2024-01-01,Sales & Marketing,OTA Commissions,24649.66
+2024-01-01,Sales & Marketing,Advertising,613.33
+2024-01-01,Sales & Marketing,Promotions,26406.03
+2024-01-01,Maintenance & Repairs,Preventive Maintenance,26565.95
+2024-01-01,Maintenance & Repairs,Repairs,31659.58
+2024-01-01,Maintenance & Repairs,Equipment Maintenance,150.29
+2024-01-01,Administrative & General,Management Salaries,46520.17
+2024-01-01,Administrative & General,IT Costs,18071.03
+2024-01-01,Administrative & General,Insurance,275.52
+2024-02-01,Rooms Department,Front Office Labor,499.62
+2024-02-01,Rooms Department,Guest Amenities,17523.6
+2024-02-01,Rooms Department,Cleaning Supplies,38839.76
+2024-02-01,Housekeeping & Laundry,Housekeeping Labor,29057.36
+2024-02-01,Housekeeping & Laundry,Laundry,20183.54
+2024-02-01,Housekeeping & Laundry,Linen Replacement,10849.35
+2024-02-01,Utilities,Electricity,15957.15
+2024-02-01,Utilities,Water,5609.86
+2024-02-01,Utilities,Gas,45419.32
+2024-02-01,Sales & Marketing,OTA Commissions,20600.48
+2024-02-01,Sales & Marketing,Advertising,12876.87
+2024-02-01,Sales & Marketing,Promotions,3745.34
+2024-02-01,Maintenance & Repairs,Preventive Maintenance,10820.35
+2024-02-01,Maintenance & Repairs,Repairs,14766.31
+2024-02-01,Maintenance & Repairs,Equipment Maintenance,13103.03
+2024-02-01,Administrative & General,Management Salaries,6974.63
+2024-02-01,Administrative & General,IT Costs,20918.33
+2024-02-01,Administrative & General,Insurance,9712.71
+2024-03-01,Rooms Department,Front Office Labor,1814.39
+2024-03-01,Rooms Department,Guest Amenities,26720.02
+2024-03-01,Rooms Department,Cleaning Supplies,16765.76
+2024-03-01,Housekeeping & Laundry,Housekeeping Labor,10437.41
+2024-03-01,Housekeeping & Laundry,Laundry,21974.27
+2024-03-01,Housekeeping & Laundry,Linen Replacement,7043.41
+2024-03-01,Utilities,Electricity,38998.12
+2024-03-01,Utilities,Water,61.31
+2024-03-01,Utilities,Gas,9721.14
+2024-03-01,Sales & Marketing,OTA Commissions,8744.76
+2024-03-01,Sales & Marketing,Advertising,12860.23
+2024-03-01,Sales & Marketing,Promotions,15762.58
+2024-03-01,Maintenance & Repairs,Preventive Maintenance,10431.09
+2024-03-01,Maintenance & Repairs,Repairs,19503.53
+2024-03-01,Maintenance & Repairs,Equipment Maintenance,33139.04
+2024-03-01,Administrative & General,Management Salaries,13987.5
+2024-03-01,Administrative & General,IT Costs,30087.55
+2024-03-01,Administrative & General,Insurance,6063.78
+2024-04-01,Rooms Department,Front Office Labor,33681.85
+2024-04-01,Rooms Department,Guest Amenities,1345.74
+2024-04-01,Rooms Department,Cleaning Supplies,12981.12
+2024-04-01,Housekeeping & Laundry,Housekeeping Labor,619.65
+2024-04-01,Housekeeping & Laundry,Laundry,5281.69
+2024-04-01,Housekeeping & Laundry,Linen Replacement,44029.27
+2024-04-01,Utilities,Electricity,40160.65
+2024-04-01,Utilities,Water,4242.02
+2024-04-01,Utilities,Gas,5084.33
+2024-04-01,Sales & Marketing,OTA Commissions,9667.33
+2024-04-01,Sales & Marketing,Advertising,16263.72
+2024-04-01,Sales & Marketing,Promotions,6246.4
+2024-04-01,Maintenance & Repairs,Preventive Maintenance,1709.68
+2024-04-01,Maintenance & Repairs,Repairs,8200.11
+2024-04-01,Maintenance & Repairs,Equipment Maintenance,18369.56
+2024-04-01,Administrative & General,Management Salaries,5741.5
+2024-04-01,Administrative & General,IT Costs,7018.22
+2024-04-01,Administrative & General,Insurance,22464.29
+2024-05-01,Rooms Department,Front Office Labor,16386.86
+2024-05-01,Rooms Department,Guest Amenities,11121.61
+2024-05-01,Rooms Department,Cleaning Supplies,6499.42
+2024-05-01,Housekeeping & Laundry,Housekeeping Labor,7916.62
+2024-05-01,Housekeeping & Laundry,Laundry,3798.81
+2024-05-01,Housekeeping & Laundry,Linen Replacement,16750.55
+2024-05-01,Utilities,Electricity,18193.88
+2024-05-01,Utilities,Water,2116.19
+2024-05-01,Utilities,Gas,1135.75
+2024-05-01,Sales & Marketing,OTA Commissions,12752.42
+2024-05-01,Sales & Marketing,Advertising,12132.61
+2024-05-01,Sales & Marketing,Promotions,2645.51
+2024-05-01,Maintenance & Repairs,Preventive Maintenance,13595.24
+2024-05-01,Maintenance & Repairs,Repairs,4532.9
+2024-05-01,Maintenance & Repairs,Equipment Maintenance,6484.43
+2024-05-01,Administrative & General,Management Salaries,11109.91
+2024-05-01,Administrative & General,IT Costs,8097.77
+2024-05-01,Administrative & General,Insurance,5073.95
+2024-06-01,Rooms Department,Front Office Labor,18669.68
+2024-06-01,Rooms Department,Guest Amenities,16613.6
+2024-06-01,Rooms Department,Cleaning Supplies,261.52
+2024-06-01,Housekeeping & Laundry,Housekeeping Labor,610.57
+2024-06-01,Housekeeping & Laundry,Laundry,14276.0
+2024-06-01,Housekeeping & Laundry,Linen Replacement,30002.94
+2024-06-01,Utilities,Electricity,24893.62
+2024-06-01,Utilities,Water,203.39
+2024-06-01,Utilities,Gas,7068.63
+2024-06-01,Sales & Marketing,OTA Commissions,844.44
+2024-06-01,Sales & Marketing,Advertising,27215.83
+2024-06-01,Sales & Marketing,Promotions,13363.8
+2024-06-01,Maintenance & Repairs,Preventive Maintenance,1279.02
+2024-06-01,Maintenance & Repairs,Repairs,32251.52
+2024-06-01,Maintenance & Repairs,Equipment Maintenance,1321.35
+2024-06-01,Administrative & General,Management Salaries,3129.39
+2024-06-01,Administrative & General,IT Costs,15880.53
+2024-06-01,Administrative & General,Insurance,12908.17
+2024-07-01,Rooms Department,Front Office Labor,26332.21
+2024-07-01,Rooms Department,Guest Amenities,13730.38
+2024-07-01,Rooms Department,Cleaning Supplies,19108.18
+2024-07-01,Housekeeping & Laundry,Housekeeping Labor,30571.56
+2024-07-01,Housekeeping & Laundry,Laundry,25005.81
+2024-07-01,Housekeeping & Laundry,Linen Replacement,876.1
+2024-07-01,Utilities,Electricity,10270.73
+2024-07-01,Utilities,Water,18122.8
+2024-07-01,Utilities,Gas,14232.79
+2024-07-01,Sales & Marketing,OTA Commissions,11463.45
+2024-07-01,Sales & Marketing,Advertising,18274.25
+2024-07-01,Sales & Marketing,Promotions,8426.39
+2024-07-01,Maintenance & Repairs,Preventive Maintenance,2915.83
+2024-07-01,Maintenance & Repairs,Repairs,511.85
+2024-07-01,Maintenance & Repairs,Equipment Maintenance,51551.25
+2024-07-01,Administrative & General,Management Salaries,40646.36
+2024-07-01,Administrative & General,IT Costs,1866.17
+2024-07-01,Administrative & General,Insurance,3575.93
+2024-08-01,Rooms Department,Front Office Labor,25640.14
+2024-08-01,Rooms Department,Guest Amenities,20548.71
+2024-08-01,Rooms Department,Cleaning Supplies,21806.55
+2024-08-01,Housekeeping & Laundry,Housekeeping Labor,16092.08
+2024-08-01,Housekeeping & Laundry,Laundry,41476.79
+2024-08-01,Housekeeping & Laundry,Linen Replacement,8166.86
+2024-08-01,Utilities,Electricity,3858.48
+2024-08-01,Utilities,Water,14257.37
+2024-08-01,Utilities,Gas,39013.94
+2024-08-01,Sales & Marketing,OTA Commissions,5597.15
+2024-08-01,Sales & Marketing,Advertising,25164.89
+2024-08-01,Sales & Marketing,Promotions,33133.22
+2024-08-01,Maintenance & Repairs,Preventive Maintenance,1521.8
+2024-08-01,Maintenance & Repairs,Repairs,23389.59
+2024-08-01,Maintenance & Repairs,Equipment Maintenance,26415.17
+2024-08-01,Administrative & General,Management Salaries,12968.36
+2024-08-01,Administrative & General,IT Costs,16408.16
+2024-08-01,Administrative & General,Insurance,28004.33
+2024-09-01,Rooms Department,Front Office Labor,3165.97
+2024-09-01,Rooms Department,Guest Amenities,15880.71
+2024-09-01,Rooms Department,Cleaning Supplies,6662.44
+2024-09-01,Housekeeping & Laundry,Housekeeping Labor,24823.91
+2024-09-01,Housekeeping & Laundry,Laundry,2226.87
+2024-09-01,Housekeeping & Laundry,Linen Replacement,4989.24
+2024-09-01,Utilities,Electricity,914.34
+2024-09-01,Utilities,Water,32645.42
+2024-09-01,Utilities,Gas,469.85
+2024-09-01,Sales & Marketing,OTA Commissions,20733.86
+2024-09-01,Sales & Marketing,Advertising,960.82
+2024-09-01,Sales & Marketing,Promotions,1279.82
+2024-09-01,Maintenance & Repairs,Preventive Maintenance,15023.55
+2024-09-01,Maintenance & Repairs,Repairs,8012.84
+2024-09-01,Maintenance & Repairs,Equipment Maintenance,8987.87
+2024-09-01,Administrative & General,Management Salaries,16245.83
+2024-09-01,Administrative & General,IT Costs,9347.56
+2024-09-01,Administrative & General,Insurance,4098.02
+2024-10-01,Rooms Department,Front Office Labor,16093.72
+2024-10-01,Rooms Department,Guest Amenities,9571.37
+2024-10-01,Rooms Department,Cleaning Supplies,5050.85
+2024-10-01,Housekeeping & Laundry,Housekeeping Labor,5569.03
+2024-10-01,Housekeeping & Laundry,Laundry,7827.61
+2024-10-01,Housekeeping & Laundry,Linen Replacement,11572.94
+2024-10-01,Utilities,Electricity,168.13
+2024-10-01,Utilities,Water,6654.3
+2024-10-01,Utilities,Gas,18689.43
+2024-10-01,Sales & Marketing,OTA Commissions,4467.9
+2024-10-01,Sales & Marketing,Advertising,2336.7
+2024-10-01,Sales & Marketing,Promotions,22980.17
+2024-10-01,Maintenance & Repairs,Preventive Maintenance,3911.8
+2024-10-01,Maintenance & Repairs,Repairs,12519.23
+2024-10-01,Maintenance & Repairs,Equipment Maintenance,5291.5
+2024-10-01,Administrative & General,Management Salaries,2946.61
+2024-10-01,Administrative & General,IT Costs,22120.61
+2024-10-01,Administrative & General,Insurance,2670.11
+2024-11-01,Rooms Department,Front Office Labor,29638.19
+2024-11-01,Rooms Department,Guest Amenities,17711.3
+2024-11-01,Rooms Department,Cleaning Supplies,8904.0
+2024-11-01,Housekeeping & Laundry,Housekeeping Labor,21817.39
+2024-11-01,Housekeeping & Laundry,Laundry,3057.5
+2024-11-01,Housekeeping & Laundry,Linen Replacement,12761.87
+2024-11-01,Utilities,Electricity,34801.01
+2024-11-01,Utilities,Water,10409.19
+2024-11-01,Utilities,Gas,2001.28
+2024-11-01,Sales & Marketing,OTA Commissions,34408.4
+2024-11-01,Sales & Marketing,Advertising,9412.32
+2024-11-01,Sales & Marketing,Promotions,2212.65
+2024-11-01,Maintenance & Repairs,Preventive Maintenance,25308.86
+2024-11-01,Maintenance & Repairs,Repairs,7291.51
+2024-11-01,Maintenance & Repairs,Equipment Maintenance,15300.2
+2024-11-01,Administrative & General,Management Salaries,12261.9
+2024-11-01,Administrative & General,IT Costs,33482.11
+2024-11-01,Administrative & General,Insurance,2861.93
+2024-12-01,Rooms Department,Front Office Labor,14791.87
+2024-12-01,Rooms Department,Guest Amenities,3468.08
+2024-12-01,Rooms Department,Cleaning Supplies,26739.7
+2024-12-01,Housekeeping & Laundry,Housekeeping Labor,29035.55
+2024-12-01,Housekeeping & Laundry,Laundry,7566.19
+2024-12-01,Housekeeping & Laundry,Linen Replacement,9523.57
+2024-12-01,Utilities,Electricity,4402.24
+2024-12-01,Utilities,Water,16142.3
+2024-12-01,Utilities,Gas,38655.35
+2024-12-01,Sales & Marketing,OTA Commissions,2510.35
+2024-12-01,Sales & Marketing,Advertising,59631.35
+2024-12-01,Sales & Marketing,Promotions,5204.32
+2024-12-01,Maintenance & Repairs,Preventive Maintenance,6181.34
+2024-12-01,Maintenance & Repairs,Repairs,3040.67
+2024-12-01,Maintenance & Repairs,Equipment Maintenance,30721.64
+2024-12-01,Administrative & General,Management Salaries,40485.64
+2024-12-01,Administrative & General,IT Costs,2362.27
+2024-12-01,Administrative & General,Insurance,5093.06
+2025-01-01,Rooms Department,Front Office Labor,9950.7
+2025-01-01,Rooms Department,Guest Amenities,29052.93
+2025-01-01,Rooms Department,Cleaning Supplies,243.17
+2025-01-01,Housekeeping & Laundry,Housekeeping Labor,24917.86
+2025-01-01,Housekeeping & Laundry,Laundry,13168.48
+2025-01-01,Housekeeping & Laundry,Linen Replacement,12108.49
+2025-01-01,Utilities,Electricity,13715.91
+2025-01-01,Utilities,Water,1953.01
+2025-01-01,Utilities,Gas,28694.67
+2025-01-01,Sales & Marketing,OTA Commissions,24215.95
+2025-01-01,Sales & Marketing,Advertising,556.13
+2025-01-01,Sales & Marketing,Promotions,16955.68
+2025-01-01,Maintenance & Repairs,Preventive Maintenance,23908.38
+2025-01-01,Maintenance & Repairs,Repairs,24148.18
+2025-01-01,Maintenance & Repairs,Equipment Maintenance,4573.81
+2025-01-01,Administrative & General,Management Salaries,30841.27
+2025-01-01,Administrative & General,IT Costs,3970.01
+2025-01-01,Administrative & General,Insurance,16887.6
+2025-02-01,Rooms Department,Front Office Labor,2785.45
+2025-02-01,Rooms Department,Guest Amenities,26027.55
+2025-02-01,Rooms Department,Cleaning Supplies,22755.44
+2025-02-01,Housekeeping & Laundry,Housekeeping Labor,16986.76
+2025-02-01,Housekeeping & Laundry,Laundry,11021.35
+2025-02-01,Housekeeping & Laundry,Linen Replacement,32893.57
+2025-02-01,Utilities,Electricity,21751.5
+2025-02-01,Utilities,Water,21647.82
+2025-02-01,Utilities,Gas,13755.77
+2025-02-01,Sales & Marketing,OTA Commissions,24709.51
+2025-02-01,Sales & Marketing,Advertising,14944.63
+2025-02-01,Sales & Marketing,Promotions,6032.93
+2025-02-01,Maintenance & Repairs,Preventive Maintenance,64166.49
+2025-02-01,Maintenance & Repairs,Repairs,2486.41
+2025-02-01,Maintenance & Repairs,Equipment Maintenance,1824.28
+2025-02-01,Administrative & General,Management Salaries,10112.93
+2025-02-01,Administrative & General,IT Costs,44427.47
+2025-02-01,Administrative & General,Insurance,1410.9
+2025-03-01,Rooms Department,Front Office Labor,40325.33
+2025-03-01,Rooms Department,Guest Amenities,3992.3
+2025-03-01,Rooms Department,Cleaning Supplies,6550.09
+2025-03-01,Housekeeping & Laundry,Housekeeping Labor,2679.0
+2025-03-01,Housekeeping & Laundry,Laundry,12205.58
+2025-03-01,Housekeeping & Laundry,Linen Replacement,22258.65
+2025-03-01,Utilities,Electricity,1278.48
+2025-03-01,Utilities,Water,24529.27
+2025-03-01,Utilities,Gas,13769.16
+2025-03-01,Sales & Marketing,OTA Commissions,27040.48
+2025-03-01,Sales & Marketing,Advertising,15959.88
+2025-03-01,Sales & Marketing,Promotions,3200.38
+2025-03-01,Maintenance & Repairs,Preventive Maintenance,4679.46
+2025-03-01,Maintenance & Repairs,Repairs,15837.92
+2025-03-01,Maintenance & Repairs,Equipment Maintenance,14095.12
+2025-03-01,Administrative & General,Management Salaries,11726.34
+2025-03-01,Administrative & General,IT Costs,10122.79
+2025-03-01,Administrative & General,Insurance,16331.35
+2025-04-01,Rooms Department,Front Office Labor,877.52
+2025-04-01,Rooms Department,Guest Amenities,5379.11
+2025-04-01,Rooms Department,Cleaning Supplies,19134.25
+2025-04-01,Housekeeping & Laundry,Housekeeping Labor,5512.54
+2025-04-01,Housekeeping & Laundry,Laundry,4046.96
+2025-04-01,Housekeeping & Laundry,Linen Replacement,19835.96
+2025-04-01,Utilities,Electricity,11631.47
+2025-04-01,Utilities,Water,10875.35
+2025-04-01,Utilities,Gas,4843.59
+2025-04-01,Sales & Marketing,OTA Commissions,1249.44
+2025-04-01,Sales & Marketing,Advertising,11099.99
+2025-04-01,Sales & Marketing,Promotions,13650.82
+2025-04-01,Maintenance & Repairs,Preventive Maintenance,18139.74
+2025-04-01,Maintenance & Repairs,Repairs,734.46
+2025-04-01,Maintenance & Repairs,Equipment Maintenance,18214.89
+2025-04-01,Administrative & General,Management Salaries,8822.83
+2025-04-01,Administrative & General,IT Costs,9828.42
+2025-04-01,Administrative & General,Insurance,11496.16
+2025-05-01,Rooms Department,Front Office Labor,19631.4
+2025-05-01,Rooms Department,Guest Amenities,3057.6
+2025-05-01,Rooms Department,Cleaning Supplies,2956.73
+2025-05-01,Housekeeping & Laundry,Housekeeping Labor,6930.61
+2025-05-01,Housekeeping & Laundry,Laundry,3288.69
+2025-05-01,Housekeeping & Laundry,Linen Replacement,16591.66
+2025-05-01,Utilities,Electricity,8695.1
+2025-05-01,Utilities,Water,15221.92
+2025-05-01,Utilities,Gas,910.97
+2025-05-01,Sales & Marketing,OTA Commissions,2424.95
+2025-05-01,Sales & Marketing,Advertising,8577.63
+2025-05-01,Sales & Marketing,Promotions,12751.8
+2025-05-01,Maintenance & Repairs,Preventive Maintenance,22742.4
+2025-05-01,Maintenance & Repairs,Repairs,4488.87
+2025-05-01,Maintenance & Repairs,Equipment Maintenance,1806.46
+2025-05-01,Administrative & General,Management Salaries,2865.12
+2025-05-01,Administrative & General,IT Costs,10807.42
+2025-05-01,Administrative & General,Insurance,21271.06
+2025-06-01,Rooms Department,Front Office Labor,229.82
+2025-06-01,Rooms Department,Guest Amenities,7395.12
+2025-06-01,Rooms Department,Cleaning Supplies,20326.95
+2025-06-01,Housekeeping & Laundry,Housekeeping Labor,4271.59
+2025-06-01,Housekeeping & Laundry,Laundry,12930.45
+2025-06-01,Housekeeping & Laundry,Linen Replacement,21427.63
+2025-06-01,Utilities,Electricity,1622.09
+2025-06-01,Utilities,Water,918.56
+2025-06-01,Utilities,Gas,24153.28
+2025-06-01,Sales & Marketing,OTA Commissions,25059.42
+2025-06-01,Sales & Marketing,Advertising,3571.11
+2025-06-01,Sales & Marketing,Promotions,3556.55
+2025-06-01,Maintenance & Repairs,Preventive Maintenance,26279.98
+2025-06-01,Maintenance & Repairs,Repairs,16549.62
+2025-06-01,Maintenance & Repairs,Equipment Maintenance,4596.62
+2025-06-01,Administrative & General,Management Salaries,4894.53
+2025-06-01,Administrative & General,IT Costs,14974.98
+2025-06-01,Administrative & General,Insurance,14982.51
+2025-07-01,Rooms Department,Front Office Labor,16765.2
+2025-07-01,Rooms Department,Guest Amenities,5165.98
+2025-07-01,Rooms Department,Cleaning Supplies,32696.68
+2025-07-01,Housekeeping & Laundry,Housekeeping Labor,22762.66
+2025-07-01,Housekeeping & Laundry,Laundry,12818.57
+2025-07-01,Housekeeping & Laundry,Linen Replacement,9248.1
+2025-07-01,Utilities,Electricity,10133.63
+2025-07-01,Utilities,Water,43200.45
+2025-07-01,Utilities,Gas,20200.77
+2025-07-01,Sales & Marketing,OTA Commissions,27731.88
+2025-07-01,Sales & Marketing,Advertising,24790.82
+2025-07-01,Sales & Marketing,Promotions,17577.5
+2025-07-01,Maintenance & Repairs,Preventive Maintenance,17830.06
+2025-07-01,Maintenance & Repairs,Repairs,6684.62
+2025-07-01,Maintenance & Repairs,Equipment Maintenance,24417.76
+2025-07-01,Administrative & General,Management Salaries,22901.59
+2025-07-01,Administrative & General,IT Costs,7369.32
+2025-07-01,Administrative & General,Insurance,35998.66
+2025-08-01,Rooms Department,Front Office Labor,23515.74
+2025-08-01,Rooms Department,Guest Amenities,24615.88
+2025-08-01,Rooms Department,Cleaning Supplies,13663.43
+2025-08-01,Housekeeping & Laundry,Housekeeping Labor,25478.06
+2025-08-01,Housekeeping & Laundry,Laundry,13303.17
+2025-08-01,Housekeeping & Laundry,Linen Replacement,19655.32
+2025-08-01,Utilities,Electricity,12817.42
+2025-08-01,Utilities,Water,8878.57
+2025-08-01,Utilities,Gas,39929.36
+2025-08-01,Sales & Marketing,OTA Commissions,42838.93
+2025-08-01,Sales & Marketing,Advertising,8256.72
+2025-08-01,Sales & Marketing,Promotions,18017.35
+2025-08-01,Maintenance & Repairs,Preventive Maintenance,20793.61
+2025-08-01,Maintenance & Repairs,Repairs,14728.88
+2025-08-01,Maintenance & Repairs,Equipment Maintenance,9056.35
+2025-08-01,Administrative & General,Management Salaries,3062.79
+2025-08-01,Administrative & General,IT Costs,31414.71
+2025-08-01,Administrative & General,Insurance,30504.38
+2025-09-01,Rooms Department,Front Office Labor,3693.4
+2025-09-01,Rooms Department,Guest Amenities,16580.37
+2025-09-01,Rooms Department,Cleaning Supplies,4244.03
+2025-09-01,Housekeeping & Laundry,Housekeeping Labor,12482.97
+2025-09-01,Housekeeping & Laundry,Laundry,7514.02
+2025-09-01,Housekeeping & Laundry,Linen Replacement,12343.83
+2025-09-01,Utilities,Electricity,2069.46
+2025-09-01,Utilities,Water,9047.7
+2025-09-01,Utilities,Gas,14996.27
+2025-09-01,Sales & Marketing,OTA Commissions,8165.38
+2025-09-01,Sales & Marketing,Advertising,14885.62
+2025-09-01,Sales & Marketing,Promotions,9455.88
+2025-09-01,Maintenance & Repairs,Preventive Maintenance,4339.93
+2025-09-01,Maintenance & Repairs,Repairs,15363.25
+2025-09-01,Maintenance & Repairs,Equipment Maintenance,9946.62
+2025-09-01,Administrative & General,Management Salaries,24873.78
+2025-09-01,Administrative & General,IT Costs,3252.38
+2025-09-01,Administrative & General,Insurance,3949.82
+2025-10-01,Rooms Department,Front Office Labor,2909.21
+2025-10-01,Rooms Department,Guest Amenities,17830.11
+2025-10-01,Rooms Department,Cleaning Supplies,5814.18
+2025-10-01,Housekeeping & Laundry,Housekeeping Labor,6560.5
+2025-10-01,Housekeeping & Laundry,Laundry,23772.74
+2025-10-01,Housekeeping & Laundry,Linen Replacement,10232.73
+2025-10-01,Utilities,Electricity,17300.13
+2025-10-01,Utilities,Water,3585.91
+2025-10-01,Utilities,Gas,7487.48
+2025-10-01,Sales & Marketing,OTA Commissions,17153.4
+2025-10-01,Sales & Marketing,Advertising,9422.83
+2025-10-01,Sales & Marketing,Promotions,1842.03
+2025-10-01,Maintenance & Repairs,Preventive Maintenance,3935.12
+2025-10-01,Maintenance & Repairs,Repairs,653.51
+2025-10-01,Maintenance & Repairs,Equipment Maintenance,28923.28
+2025-10-01,Administrative & General,Management Salaries,21059.33
+2025-10-01,Administrative & General,IT Costs,16883.2
+2025-10-01,Administrative & General,Insurance,184.61
+2025-11-01,Rooms Department,Front Office Labor,11250.88
+2025-11-01,Rooms Department,Guest Amenities,13931.05
+2025-11-01,Rooms Department,Cleaning Supplies,29832.37
+2025-11-01,Housekeeping & Laundry,Housekeeping Labor,10887.84
+2025-11-01,Housekeeping & Laundry,Laundry,28838.01
+2025-11-01,Housekeeping & Laundry,Linen Replacement,11785.76
+2025-11-01,Utilities,Electricity,13090.84
+2025-11-01,Utilities,Water,26093.52
+2025-11-01,Utilities,Gas,612.25
+2025-11-01,Sales & Marketing,OTA Commissions,3474.58
+2025-11-01,Sales & Marketing,Advertising,49723.39
+2025-11-01,Sales & Marketing,Promotions,1994.19
+2025-11-01,Maintenance & Repairs,Preventive Maintenance,18403.57
+2025-11-01,Maintenance & Repairs,Repairs,11320.33
+2025-11-01,Maintenance & Repairs,Equipment Maintenance,10088.42
+2025-11-01,Administrative & General,Management Salaries,27450.05
+2025-11-01,Administrative & General,IT Costs,7650.48
+2025-11-01,Administrative & General,Insurance,13856.62
+2025-12-01,Rooms Department,Front Office Labor,26786.57
+2025-12-01,Rooms Department,Guest Amenities,1677.08
+2025-12-01,Rooms Department,Cleaning Supplies,20146.91
+2025-12-01,Housekeeping & Laundry,Housekeeping Labor,34725.14
+2025-12-01,Housekeeping & Laundry,Laundry,248.9
+2025-12-01,Housekeeping & Laundry,Linen Replacement,19365.25
+2025-12-01,Utilities,Electricity,15680.44
+2025-12-01,Utilities,Water,7534.57
+2025-12-01,Utilities,Gas,16051.13
+2025-12-01,Sales & Marketing,OTA Commissions,1238.39
+2025-12-01,Sales & Marketing,Advertising,22174.17
+2025-12-01,Sales & Marketing,Promotions,14292.17
+2025-12-01,Maintenance & Repairs,Preventive Maintenance,4531.04
+2025-12-01,Maintenance & Repairs,Repairs,24516.3
+2025-12-01,Maintenance & Repairs,Equipment Maintenance,22422.19
+2025-12-01,Administrative & General,Management Salaries,18005.06
+2025-12-01,Administrative & General,IT Costs,36920.38
+2025-12-01,Administrative & General,Insurance,1164.0
