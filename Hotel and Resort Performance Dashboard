@@ -1,0 +1,59 @@
+# Dashboard Documentation
+This document provides an overview and explanation of the Alpha Grand Hotel & Resort Performance Dashboard. The dashboard was built using Tableau and is designed to deliver management-ready insights rather than purely descriptive reporting.
+
+### 1. Project Overview
+Alpha Grand Hotel & Resort is a fictitious international hotel located in Accra, Ghana. The dashboard is built on synthetic data spanning 2015 to 2025, carefully modelled to reflect realistic hotel operations, seasonal demand patterns, pricing dynamics, and cost behaviour typical of a large hotel operating in an emerging market.
+
+###2. Objective of the Dashboard
+The primary objective of this dashboard is to support management decision-making by answering the following core questions:
+- How is the hotel performing overall?
+- What has changed compared to last year (YoY) and last month (MoM)?
+- What is driving changes in revenue, cost, and profit?
+- Where are the pressure points, and where are the opportunities?
+
+###3. Data Sources
+The dashboard uses two main synthetic datasets:
+
+1. Hotel Guests Dataset:
+Captures booking-level and stay-level data, including revenue, ADR, room nights, guest type, room type, booking channels, nationality, and stay duration.
+
+2. Hotel Costs Dataset:
+Captures monthly operational costs broken down into major hotel cost categories such as housekeeping, utilities, maintenance, sales and marketing, and administrative expenses.
+
+
+###4. Key Metrics
+Key metrics used across the dashboard include:
+- Revenue
+- Costs
+- Profit
+- Profit Margin
+- Room Nights
+- Average Daily Rate (ADR)
+- Occupancy Rate
+
+The occupancy rate is calculated as Room Nights divided by the product of Rooms Available and Days in the Period. Rooms Available is assumed to be constant at 100 rooms.
+
+###5. Dashboard Structure
+Landing Page:
+Introduces the dashboard, provides context, and allows users to navigate to detailed views.
+
+Overview Page:
+Provides a high-level snapshot of hotel performance, showing key KPIs and trends at a glance.
+
+Performance Variance Page:
+Explains how changes in revenue and costs translate into profit outcomes, highlighting YoY and MoM variances.
+
+Guest Activity Page:
+Provides detailed visibility into guest stays, booking patterns, length of stay, and value contribution.
+
+###6. Analytical Approach
+The dashboard uses parameter-driven calculations to dynamically compute Current Year (CY), Previous Year (PY), Current Month (CM), and Previous Month (PM) values. YoY and MoM percentage and absolute changes are calculated consistently across all key metrics to ensure comparability.
+
+Narrative insight calculations are used to translate metrics into clear, executive-friendly commentary.
+
+###7. Disclaimer
+All data used in this project is synthetic and created solely for demonstration and learning purposes. Alpha Grand Hotel & Resort is a fictitious entity, and the dashboard does not represent any real hotel.
+
+###8. Author
+Ebenezer Sam
+Data Analyst | Business Intelligence | Analytics Storytelling
